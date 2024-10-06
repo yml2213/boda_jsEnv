@@ -1,0 +1,1912 @@
+window_document_get ->[object HTMLDocument]
+[object HTMLDocument]-> Document_getElementsByClassName ->  custom-dialog-wrapper -> [object HTMLCollection]
+window_document_get ->[object HTMLDocument]
+[object HTMLDocument]-> Document_getElementsByClassName ->  custom-dialog-wrapper -> [object HTMLCollection]
+      [collection::proxyHTMLCollection]   获取属性:   0   value:   undefined
+window_document_get ->[object HTMLDocument]
+Document_documentElement_get ->[object HTMLHtmlElement]
+window_document_get ->[object HTMLDocument]
+Document_getElementById -> id ->nc_1_n1z-> res ->null
+window_document_get ->[object HTMLDocument]
+Document_getElementById -> id ->nc_1_n1z-> res ->null
+window_document_get ->[object HTMLDocument]
+Document_getElementById -> id ->fm-login-password-> res ->null
+window_document_get ->[object HTMLDocument]
+Document_getElementById -> id ->fm-login-password-> res ->null
+window_document_get ->[object HTMLDocument]
+Document_getElementById -> id ->fm-login-id-> res ->null
+window_document_get ->[object HTMLDocument]
+Document_getElementById -> id ->fm-login-id-> res ->null
+window_document_get ->[object HTMLDocument]
+Document_getElementById -> id ->nc_1_n1z-> res ->null
+window_screen_get ->[object Screen]
+Screen_colorDepth_get 24  
+window_document_get ->[object HTMLDocument]
+document_location_get res ->location
+location_href_get res->about:blank
+window_setInterval ->delay值可能会影响执行结果,如果网站中执行的方法框架内没有执行,可以与delay值有关,尝试修改判断条件
+      delay->10 argList->  -> func ->function Q(){var H=B.slice(0);H[0]=[this],H[1]=[arguments],H[2]=[Q];for(var c=0;c<G.length&&c<argume
+[object Window]-> EventTarget_addEventListener 注册事件 ->message ->
+window_navigator_get ->[object Navigator]
+Navigator_userAgent_get res->Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+window_document_get ->[object HTMLDocument]
+Document_createElement -> div -> [object HTMLDivElement]
+window_document_get ->[object HTMLDocument]
+window_self_get res->window
+window_document_get ->[object HTMLDocument]
+window_name_get  ->res -> 
+window_location_get ->
+window_customElements_get ->[object CustomElementRegistry]
+window_history_get ->[object History]
+window_navigation_get ->[object Navigation]
+window_locationbar_get ->[object BarProp]
+window_menubar_get ->[object BarProp]
+window_personalbar_get ->[object BarProp]
+window_scrollbars_get ->[object BarProp]
+window_statusbar_get ->[object BarProp]
+window_toolbar_get ->[object BarProp]
+window_status_get ->
+window_closed_get ->false
+window_frames_get res->window
+window_length_get  存在问题需要调整 res->0
+window_closed_get ->null
+window_parent_get res->window
+window_frameElement_get ->null
+window_navigator_get ->[object Navigator]
+window_origin_get ->https://passport.gds.org.cn
+window_external_get ->[object External]
+window_screen_get ->[object Screen]
+window_innerWidth_get innerWidth ->1274
+window_innerHeight_get innerHeight ->874
+window_origin_get res ->0
+window_pageXOffset_get res ->0
+window_scrollY_get res ->0
+window_pageYOffset_get res ->0
+window_visualViewport_get ->[object VisualViewport]
+window_screenX_get screenX ->0
+window_screenY_get screenY ->0
+window_outerWidth_get outerWidth ->1274
+window_outerHeight_get outerHeight ->994
+window_devicePixelRatio_get res ->1.5
+window_clientInformation_get ->[object Navigator]
+window_screenLeft_get screenLeft ->0
+window_screenTop_get screenTop ->0
+window_styleMedia_get ->[object StyleMedia]
+window_onsearch_get ->null
+window_isSecureContext_get ->true
+window_trustedTypes_get ->[object TrustedTypePolicyFactory]
+window_performance_get ->[object Performance]
+window_onappinstalled_get ->null
+window_onbeforeinstallprompt_get ->null
+window_crypto_get ->[object Crypto]
+window_indexedDB_get  ->res -> [object IDBFactory]
+window_localStorage_get  ->res -> [object Storage]
+window_localStorage_get  ->res -> [object Storage]
+window_onbeforexrselect_get ->null
+window_onabort_get ->null
+window_onbeforeinput_get ->null
+window_onblur_get ->null
+window_oncancel_get ->null
+window_oncanplay_get ->null
+window_oncanplaythrough_get ->null
+window_onchange_get ->null
+window_onclick_get ->null
+window_onclose_get ->null
+window_oncontextlost_get ->null
+window_oncontextmenu_get ->null
+window_oncontextrestored_get ->null
+window_oncuechange_get ->null
+window_ondblclick_get ->null
+window_ondrag_get ->null
+window_ondragend_get ->null
+window_ondragenter_get ->null
+window_ondragleave_get ->null
+window_ondragover_get ->null
+window_ondragstart_get ->null
+window_ondrop_get ->null
+window_ondurationchange_get ->null
+window_onemptied_get ->null
+window_onended_get ->null
+window_onerror_get ->null
+window_onfocus_get ->null
+window_onformdata_get ->null
+window_oninput_get ->null
+window_oninvalid_get ->null
+window_onkeydown_get ->null
+window_onkeypress_get ->null
+window_onkeyup_get ->null
+window_onload_get ->null
+window_onloadeddata_get ->null
+window_onloadedmetadata_get ->null
+window_onloadstart_get ->null
+window_onmousedown_get ->null
+window_onmouseenter_get ->null
+window_onmouseleave_get ->null
+window_onmousemove_get ->null
+window_onmouseout_get ->null
+window_onmouseover_get ->null
+window_onmouseup_get ->null
+window_onmousewheel_get ->null
+window_onpause_get ->null
+window_onplay_get ->null
+window_onplaying_get ->null
+window_onprogress_get ->null
+window_onratechange_get ->null
+window_onreset_get ->null
+浏览器窗口大小发生变化时执行 window_onresize_get ->null
+window_onscroll_get ->null
+window_onsecuritypolicyviolation_get ->null
+window_onseeked_get ->null
+window_onseeking_get ->null
+window_onselect_get ->null
+window_onslotchange_get ->null
+window_onstalled_get ->null
+window_onsubmit_get ->null
+window_onsuspend_get ->null
+window_ontimeupdate_get ->null
+window_ontoggle_get ->null
+window_onvolumechange_get ->null
+window_onwaiting_get ->null
+window_onwebkitanimationend_get ->null
+window_onwebkitanimationiteration_get ->null
+window_onwebkitanimationstart_get ->null
+window_onwebkittransitionend_get ->null
+window_onwheel_get ->null
+window_onauxclick_get ->null
+window_ongotpointercapture_get ->null
+window_onlostpointercapture_get ->null
+window_onpointerdown_get ->null
+window_onpointermove_get ->null
+window_onpointerrawupdate_get ->null
+window_onpointerup_get ->null
+window_onpointercancel_get ->null
+window_onpointerover_get ->null
+window_onpointerout_get ->null
+window_onpointerenter_get ->null
+window_onpointerleave_get ->null
+window_onselectstart_get ->null
+window_onselectionchange_get ->null
+window_onanimationend_get ->null
+window_onanimationiteration_get ->null
+window_onanimationstart_get ->null
+window_ontransitionrun_get ->null
+window_ontransitionstart_get ->null
+window_ontransitionend_get ->null
+window_ontransitioncancel_get ->null
+window_onafterprint_get ->null
+window_onbeforeprint_get ->null
+window_onbeforeunload_get ->null
+window_onhashchange_get ->null
+window_onlanguagechange_get ->null
+window_onmessage_get ->null
+window_onmessageerror_get ->null
+window_onoffline_get ->null
+window_ononline_get ->null
+window_onpagehide_get ->null
+window_onpageshow_get ->null
+window_onpopstate_get ->null
+window_onrejectionhandled_get ->null
+window_onstorage_get ->null
+window_onunhandledrejection_get ->null
+window_onunload_get ->null
+window_crossOriginIsolated_get ->false
+window_scheduler_get ->[object Scheduler]
+window_caches_get ->[object CacheStorage]
+window_cookieStore_get ->[object CookieStore]
+window_ondevicemotion_get ->null
+window_ondeviceorientation_get ->null
+window_ondeviceorientationabsolute_get ->null
+window_documentPictureInPicture_get ->[object DocumentPictureInPicture]
+window_launchQueue_get ->[object LaunchQueue]
+window_onbeforematch_get ->null
+window_onbeforetoggle_get ->null
+window_originAgentCluster_get ->null
+window_credentialless_get -> 默认返回falsefalse
+window_speechSynthesis_get ->[object SpeechSynthesis]
+window_oncontentvisibilityautostatechange_get ->null
+window_onscrollend_get ->null
+'[window_offscreenBuffering_get]正在执行,错误信息Cannot read properties of undefined (reading 'apply')'
+window_self_get res->window
+window_document_get ->[object HTMLDocument]
+window_name_get  ->res -> 
+window_location_get ->
+window_customElements_get ->[object CustomElementRegistry]
+window_history_get ->[object History]
+window_navigation_get ->[object Navigation]
+window_locationbar_get ->[object BarProp]
+window_menubar_get ->[object BarProp]
+window_personalbar_get ->[object BarProp]
+window_scrollbars_get ->[object BarProp]
+window_statusbar_get ->[object BarProp]
+window_toolbar_get ->[object BarProp]
+window_status_get ->
+window_closed_get ->false
+window_frames_get res->window
+window_length_get  存在问题需要调整 res->0
+window_closed_get ->null
+window_parent_get res->window
+window_frameElement_get ->null
+window_navigator_get ->[object Navigator]
+window_origin_get ->https://passport.gds.org.cn
+window_external_get ->[object External]
+window_screen_get ->[object Screen]
+window_innerWidth_get innerWidth ->1274
+window_innerHeight_get innerHeight ->874
+window_origin_get res ->0
+window_pageXOffset_get res ->0
+window_scrollY_get res ->0
+window_pageYOffset_get res ->0
+window_visualViewport_get ->[object VisualViewport]
+window_screenX_get screenX ->0
+window_screenY_get screenY ->0
+window_outerWidth_get outerWidth ->1274
+window_outerHeight_get outerHeight ->994
+window_devicePixelRatio_get res ->1.5
+window_clientInformation_get ->[object Navigator]
+window_screenLeft_get screenLeft ->0
+window_screenTop_get screenTop ->0
+window_styleMedia_get ->[object StyleMedia]
+window_onsearch_get ->null
+window_isSecureContext_get ->true
+window_trustedTypes_get ->[object TrustedTypePolicyFactory]
+window_performance_get ->[object Performance]
+window_onappinstalled_get ->null
+window_onbeforeinstallprompt_get ->null
+window_crypto_get ->[object Crypto]
+window_indexedDB_get  ->res -> [object IDBFactory]
+window_localStorage_get  ->res -> [object Storage]
+window_localStorage_get  ->res -> [object Storage]
+window_onbeforexrselect_get ->null
+window_onabort_get ->null
+window_onbeforeinput_get ->null
+window_onblur_get ->null
+window_oncancel_get ->null
+window_oncanplay_get ->null
+window_oncanplaythrough_get ->null
+window_onchange_get ->null
+window_onclick_get ->null
+window_onclose_get ->null
+window_oncontextlost_get ->null
+window_oncontextmenu_get ->null
+window_oncontextrestored_get ->null
+window_oncuechange_get ->null
+window_ondblclick_get ->null
+window_ondrag_get ->null
+window_ondragend_get ->null
+window_ondragenter_get ->null
+window_ondragleave_get ->null
+window_ondragover_get ->null
+window_ondragstart_get ->null
+window_ondrop_get ->null
+window_ondurationchange_get ->null
+window_onemptied_get ->null
+window_onended_get ->null
+window_onerror_get ->null
+window_onfocus_get ->null
+window_onformdata_get ->null
+window_oninput_get ->null
+window_oninvalid_get ->null
+window_onkeydown_get ->null
+window_onkeypress_get ->null
+window_onkeyup_get ->null
+window_onload_get ->null
+window_onloadeddata_get ->null
+window_onloadedmetadata_get ->null
+window_onloadstart_get ->null
+window_onmousedown_get ->null
+window_onmouseenter_get ->null
+window_onmouseleave_get ->null
+window_onmousemove_get ->null
+window_onmouseout_get ->null
+window_onmouseover_get ->null
+window_onmouseup_get ->null
+window_onmousewheel_get ->null
+window_onpause_get ->null
+window_onplay_get ->null
+window_onplaying_get ->null
+window_onprogress_get ->null
+window_onratechange_get ->null
+window_onreset_get ->null
+浏览器窗口大小发生变化时执行 window_onresize_get ->null
+window_onscroll_get ->null
+window_onsecuritypolicyviolation_get ->null
+window_onseeked_get ->null
+window_onseeking_get ->null
+window_onselect_get ->null
+window_onslotchange_get ->null
+window_onstalled_get ->null
+window_onsubmit_get ->null
+window_onsuspend_get ->null
+window_ontimeupdate_get ->null
+window_ontoggle_get ->null
+window_onvolumechange_get ->null
+window_onwaiting_get ->null
+window_onwebkitanimationend_get ->null
+window_onwebkitanimationiteration_get ->null
+window_onwebkitanimationstart_get ->null
+window_onwebkittransitionend_get ->null
+window_onwheel_get ->null
+window_onauxclick_get ->null
+window_ongotpointercapture_get ->null
+window_onlostpointercapture_get ->null
+window_onpointerdown_get ->null
+window_onpointermove_get ->null
+window_onpointerrawupdate_get ->null
+window_onpointerup_get ->null
+window_onpointercancel_get ->null
+window_onpointerover_get ->null
+window_onpointerout_get ->null
+window_onpointerenter_get ->null
+window_onpointerleave_get ->null
+window_onselectstart_get ->null
+window_onselectionchange_get ->null
+window_onanimationend_get ->null
+window_onanimationiteration_get ->null
+window_onanimationstart_get ->null
+window_ontransitionrun_get ->null
+window_ontransitionstart_get ->null
+window_ontransitionend_get ->null
+window_ontransitioncancel_get ->null
+window_onafterprint_get ->null
+window_onbeforeprint_get ->null
+window_onbeforeunload_get ->null
+window_onhashchange_get ->null
+window_onlanguagechange_get ->null
+window_onmessage_get ->null
+window_onmessageerror_get ->null
+window_onoffline_get ->null
+window_ononline_get ->null
+window_onpagehide_get ->null
+window_onpageshow_get ->null
+window_onpopstate_get ->null
+window_onrejectionhandled_get ->null
+window_onstorage_get ->null
+window_onunhandledrejection_get ->null
+window_onunload_get ->null
+window_crossOriginIsolated_get ->false
+window_scheduler_get ->[object Scheduler]
+window_caches_get ->[object CacheStorage]
+window_cookieStore_get ->[object CookieStore]
+window_ondevicemotion_get ->null
+window_ondeviceorientation_get ->null
+window_ondeviceorientationabsolute_get ->null
+window_documentPictureInPicture_get ->[object DocumentPictureInPicture]
+window_launchQueue_get ->[object LaunchQueue]
+window_onbeforematch_get ->null
+window_onbeforetoggle_get ->null
+window_originAgentCluster_get ->null
+window_credentialless_get -> 默认返回falsefalse
+window_speechSynthesis_get ->[object SpeechSynthesis]
+window_oncontentvisibilityautostatechange_get ->null
+window_onscrollend_get ->null
+'[window_offscreenBuffering_get]正在执行,错误信息Cannot read properties of undefined (reading 'apply')'
+Document_createElement -> canvas -> [object HTMLCanvasElement]
+HTMLCanvasElement_getContext ->type->webgl -> res -> [object WebGLRenderingContext]
+WebGLRenderingContext_getSupportedExtensions=== ANGLE_instanced_arrays,EXT_blend_minmax,EXT_color_buffer_half_float,EXT_disjoint_timer_query,EXT_float_blend,EXT_frag_depth,EXT_shader_texture_lod,EXT_texture_compression_bptc,EXT_texture_compression_rgtc,EXT_texture_filter_anisotropic,WEBKIT_EXT_texture_filter_anisotropic,EXT_sRGB,KHR_parallel_shader_compile,OES_element_index_uint,OES_fbo_render_mipmap,OES_standard_derivatives,OES_texture_float,OES_texture_float_linear,OES_texture_half_float,OES_texture_half_float_linear,OES_vertex_array_object,WEBGL_color_buffer_float,WEBGL_compressed_texture_s3tc,WEBKIT_WEBGL_compressed_texture_s3tc,WEBGL_compressed_texture_s3tc_srgb,WEBGL_debug_renderer_info,WEBGL_debug_shaders,WEBGL_depth_texture,WEBKIT_WEBGL_depth_texture,WEBGL_draw_buffers,WEBGL_lose_context,WEBKIT_WEBGL_lose_context,WEBGL_multi_draw  
+RTCPeerConnection 实例化对象 --->{"0":{"iceServers":[{"urls":["stun:stun1.l.google.com:19302?transport=udp","stun:stun2.l.google.com:19302?transport=udp","stun:stun3.l.google.com:19302?transport=udp","stun:stun4.l.google.com:19302?transport=udp"]}]},"1":{}}
+RTCPeerConnection_onicecandidate_set arg->function Q(){var H=B.slice(0);H[0]=[this],H[1]=[arguments],H[2]=[Q];for(var c=0;c<G.length&&c<arguments.length;c++)0<G[c]&&(H[G[c]]=[arguments[c]]);return __TENCENT_CHAOS_VM(x,w,E,H,K,o,C,M)}
+实例化promise 参数::(resolve,reject)=>{
+          resolve(_successCallback);
+      }
+实例化promise 参数::(resolve, reject) => {
+      setTimeout(()=>{
+        try {
+          let x = onFulfilled(self.value);
+          resolvePromise(promise2, x, resolve, reject); 
+        } catch (e) {
+          reject(e);
+        } 
+      },0,'promise');
+    }
+window_setTimeout -> delay值可能会影响执行结果,如果网站中执行的方法框架内没有执行,可以与delay值有关,尝试修改判断条件
+      delay->0 argList->promise ->func -> ()=>{
+        try {
+          let x = onFulfilled(self.value);
+          resolvePromise(promise2, x, resolve, reject); 
+        } catch (e) {
+          reject(e);
+        } 
+      }
+window_setTimeout delay->小于等于4 立马开始执行
+window_setTimeout -> delay值可能会影响执行结果,如果网站中执行的方法框架内没有执行,可以与delay值有关,尝试修改判断条件
+      delay->1000 argList-> ->func -> function Q(){var H=B.slice(0);H[0]=[this],H[1]=[arguments],H[2]=[Q];for(var c=0;c<G.length&&c<arguments.length;c++)0<G[c]&&(H[G[c]]=[arguments[c]]);return __TENCENT_CHAOS_VM(x,w,E,H,K,o,C,M)}
+window_navigator_get ->[object Navigator]
+Navigator_languages_get res->zh-CN,zh
+window_navigator_get ->[object Navigator]
+Navigator_cookieEnabled_get res->true
+window_document_get ->[object HTMLDocument]
+[object Window]-> EventTarget_addEventListener 注册事件 ->load ->
+window_self_get res->window
+window_document_get ->[object HTMLDocument]
+window_name_get  ->res -> 
+window_location_get ->
+window_customElements_get ->[object CustomElementRegistry]
+window_history_get ->[object History]
+window_navigation_get ->[object Navigation]
+window_locationbar_get ->[object BarProp]
+window_menubar_get ->[object BarProp]
+window_personalbar_get ->[object BarProp]
+window_scrollbars_get ->[object BarProp]
+window_statusbar_get ->[object BarProp]
+window_toolbar_get ->[object BarProp]
+window_status_get ->
+window_closed_get ->false
+window_frames_get res->window
+window_length_get  存在问题需要调整 res->0
+window_closed_get ->null
+window_parent_get res->window
+window_frameElement_get ->null
+window_navigator_get ->[object Navigator]
+window_origin_get ->https://passport.gds.org.cn
+window_external_get ->[object External]
+window_screen_get ->[object Screen]
+window_innerWidth_get innerWidth ->1274
+window_innerHeight_get innerHeight ->874
+window_origin_get res ->0
+window_pageXOffset_get res ->0
+window_scrollY_get res ->0
+window_pageYOffset_get res ->0
+window_visualViewport_get ->[object VisualViewport]
+window_screenX_get screenX ->0
+window_screenY_get screenY ->0
+window_outerWidth_get outerWidth ->1274
+window_outerHeight_get outerHeight ->994
+window_devicePixelRatio_get res ->1.5
+window_clientInformation_get ->[object Navigator]
+window_screenLeft_get screenLeft ->0
+window_screenTop_get screenTop ->0
+window_styleMedia_get ->[object StyleMedia]
+window_onsearch_get ->null
+window_isSecureContext_get ->true
+window_trustedTypes_get ->[object TrustedTypePolicyFactory]
+window_performance_get ->[object Performance]
+window_onappinstalled_get ->null
+window_onbeforeinstallprompt_get ->null
+window_crypto_get ->[object Crypto]
+window_indexedDB_get  ->res -> [object IDBFactory]
+window_localStorage_get  ->res -> [object Storage]
+window_localStorage_get  ->res -> [object Storage]
+window_onbeforexrselect_get ->null
+window_onabort_get ->null
+window_onbeforeinput_get ->null
+window_onblur_get ->null
+window_oncancel_get ->null
+window_oncanplay_get ->null
+window_oncanplaythrough_get ->null
+window_onchange_get ->null
+window_onclick_get ->null
+window_onclose_get ->null
+window_oncontextlost_get ->null
+window_oncontextmenu_get ->null
+window_oncontextrestored_get ->null
+window_oncuechange_get ->null
+window_ondblclick_get ->null
+window_ondrag_get ->null
+window_ondragend_get ->null
+window_ondragenter_get ->null
+window_ondragleave_get ->null
+window_ondragover_get ->null
+window_ondragstart_get ->null
+window_ondrop_get ->null
+window_ondurationchange_get ->null
+window_onemptied_get ->null
+window_onended_get ->null
+window_onerror_get ->null
+window_onfocus_get ->null
+window_onformdata_get ->null
+window_oninput_get ->null
+window_oninvalid_get ->null
+window_onkeydown_get ->null
+window_onkeypress_get ->null
+window_onkeyup_get ->null
+window_onload_get ->null
+window_onloadeddata_get ->null
+window_onloadedmetadata_get ->null
+window_onloadstart_get ->null
+window_onmousedown_get ->null
+window_onmouseenter_get ->null
+window_onmouseleave_get ->null
+window_onmousemove_get ->null
+window_onmouseout_get ->null
+window_onmouseover_get ->null
+window_onmouseup_get ->null
+window_onmousewheel_get ->null
+window_onpause_get ->null
+window_onplay_get ->null
+window_onplaying_get ->null
+window_onprogress_get ->null
+window_onratechange_get ->null
+window_onreset_get ->null
+浏览器窗口大小发生变化时执行 window_onresize_get ->null
+window_onscroll_get ->null
+window_onsecuritypolicyviolation_get ->null
+window_onseeked_get ->null
+window_onseeking_get ->null
+window_onselect_get ->null
+window_onslotchange_get ->null
+window_onstalled_get ->null
+window_onsubmit_get ->null
+window_onsuspend_get ->null
+window_ontimeupdate_get ->null
+window_ontoggle_get ->null
+window_onvolumechange_get ->null
+window_onwaiting_get ->null
+window_onwebkitanimationend_get ->null
+window_onwebkitanimationiteration_get ->null
+window_onwebkitanimationstart_get ->null
+window_onwebkittransitionend_get ->null
+window_onwheel_get ->null
+window_onauxclick_get ->null
+window_ongotpointercapture_get ->null
+window_onlostpointercapture_get ->null
+window_onpointerdown_get ->null
+window_onpointermove_get ->null
+window_onpointerrawupdate_get ->null
+window_onpointerup_get ->null
+window_onpointercancel_get ->null
+window_onpointerover_get ->null
+window_onpointerout_get ->null
+window_onpointerenter_get ->null
+window_onpointerleave_get ->null
+window_onselectstart_get ->null
+window_onselectionchange_get ->null
+window_onanimationend_get ->null
+window_onanimationiteration_get ->null
+window_onanimationstart_get ->null
+window_ontransitionrun_get ->null
+window_ontransitionstart_get ->null
+window_ontransitionend_get ->null
+window_ontransitioncancel_get ->null
+window_onafterprint_get ->null
+window_onbeforeprint_get ->null
+window_onbeforeunload_get ->null
+window_onhashchange_get ->null
+window_onlanguagechange_get ->null
+window_onmessage_get ->null
+window_onmessageerror_get ->null
+window_onoffline_get ->null
+window_ononline_get ->null
+window_onpagehide_get ->null
+window_onpageshow_get ->null
+window_onpopstate_get ->null
+window_onrejectionhandled_get ->null
+window_onstorage_get ->null
+window_onunhandledrejection_get ->null
+window_onunload_get ->null
+window_crossOriginIsolated_get ->false
+window_scheduler_get ->[object Scheduler]
+window_caches_get ->[object CacheStorage]
+window_cookieStore_get ->[object CookieStore]
+window_ondevicemotion_get ->null
+window_ondeviceorientation_get ->null
+window_ondeviceorientationabsolute_get ->null
+window_documentPictureInPicture_get ->[object DocumentPictureInPicture]
+window_launchQueue_get ->[object LaunchQueue]
+window_onbeforematch_get ->null
+window_onbeforetoggle_get ->null
+window_originAgentCluster_get ->null
+window_credentialless_get -> 默认返回falsefalse
+window_speechSynthesis_get ->[object SpeechSynthesis]
+window_oncontentvisibilityautostatechange_get ->null
+window_onscrollend_get ->null
+'[window_offscreenBuffering_get]正在执行,错误信息Cannot read properties of undefined (reading 'apply')'
+window_self_get res->window
+window_document_get ->[object HTMLDocument]
+window_name_get  ->res -> 
+window_location_get ->
+window_customElements_get ->[object CustomElementRegistry]
+window_history_get ->[object History]
+window_navigation_get ->[object Navigation]
+window_locationbar_get ->[object BarProp]
+window_menubar_get ->[object BarProp]
+window_personalbar_get ->[object BarProp]
+window_scrollbars_get ->[object BarProp]
+window_statusbar_get ->[object BarProp]
+window_toolbar_get ->[object BarProp]
+window_status_get ->
+window_closed_get ->false
+window_frames_get res->window
+window_length_get  存在问题需要调整 res->0
+window_closed_get ->null
+window_parent_get res->window
+window_frameElement_get ->null
+window_navigator_get ->[object Navigator]
+window_origin_get ->https://passport.gds.org.cn
+window_external_get ->[object External]
+window_screen_get ->[object Screen]
+window_innerWidth_get innerWidth ->1274
+window_innerHeight_get innerHeight ->874
+window_origin_get res ->0
+window_pageXOffset_get res ->0
+window_scrollY_get res ->0
+window_pageYOffset_get res ->0
+window_visualViewport_get ->[object VisualViewport]
+window_screenX_get screenX ->0
+window_screenY_get screenY ->0
+window_outerWidth_get outerWidth ->1274
+window_outerHeight_get outerHeight ->994
+window_devicePixelRatio_get res ->1.5
+window_clientInformation_get ->[object Navigator]
+window_screenLeft_get screenLeft ->0
+window_screenTop_get screenTop ->0
+window_styleMedia_get ->[object StyleMedia]
+window_onsearch_get ->null
+window_isSecureContext_get ->true
+window_trustedTypes_get ->[object TrustedTypePolicyFactory]
+window_performance_get ->[object Performance]
+window_onappinstalled_get ->null
+window_onbeforeinstallprompt_get ->null
+window_crypto_get ->[object Crypto]
+window_indexedDB_get  ->res -> [object IDBFactory]
+window_localStorage_get  ->res -> [object Storage]
+window_localStorage_get  ->res -> [object Storage]
+window_onbeforexrselect_get ->null
+window_onabort_get ->null
+window_onbeforeinput_get ->null
+window_onblur_get ->null
+window_oncancel_get ->null
+window_oncanplay_get ->null
+window_oncanplaythrough_get ->null
+window_onchange_get ->null
+window_onclick_get ->null
+window_onclose_get ->null
+window_oncontextlost_get ->null
+window_oncontextmenu_get ->null
+window_oncontextrestored_get ->null
+window_oncuechange_get ->null
+window_ondblclick_get ->null
+window_ondrag_get ->null
+window_ondragend_get ->null
+window_ondragenter_get ->null
+window_ondragleave_get ->null
+window_ondragover_get ->null
+window_ondragstart_get ->null
+window_ondrop_get ->null
+window_ondurationchange_get ->null
+window_onemptied_get ->null
+window_onended_get ->null
+window_onerror_get ->null
+window_onfocus_get ->null
+window_onformdata_get ->null
+window_oninput_get ->null
+window_oninvalid_get ->null
+window_onkeydown_get ->null
+window_onkeypress_get ->null
+window_onkeyup_get ->null
+window_onload_get ->null
+window_onloadeddata_get ->null
+window_onloadedmetadata_get ->null
+window_onloadstart_get ->null
+window_onmousedown_get ->null
+window_onmouseenter_get ->null
+window_onmouseleave_get ->null
+window_onmousemove_get ->null
+window_onmouseout_get ->null
+window_onmouseover_get ->null
+window_onmouseup_get ->null
+window_onmousewheel_get ->null
+window_onpause_get ->null
+window_onplay_get ->null
+window_onplaying_get ->null
+window_onprogress_get ->null
+window_onratechange_get ->null
+window_onreset_get ->null
+浏览器窗口大小发生变化时执行 window_onresize_get ->null
+window_onscroll_get ->null
+window_onsecuritypolicyviolation_get ->null
+window_onseeked_get ->null
+window_onseeking_get ->null
+window_onselect_get ->null
+window_onslotchange_get ->null
+window_onstalled_get ->null
+window_onsubmit_get ->null
+window_onsuspend_get ->null
+window_ontimeupdate_get ->null
+window_ontoggle_get ->null
+window_onvolumechange_get ->null
+window_onwaiting_get ->null
+window_onwebkitanimationend_get ->null
+window_onwebkitanimationiteration_get ->null
+window_onwebkitanimationstart_get ->null
+window_onwebkittransitionend_get ->null
+window_onwheel_get ->null
+window_onauxclick_get ->null
+window_ongotpointercapture_get ->null
+window_onlostpointercapture_get ->null
+window_onpointerdown_get ->null
+window_onpointermove_get ->null
+window_onpointerrawupdate_get ->null
+window_onpointerup_get ->null
+window_onpointercancel_get ->null
+window_onpointerover_get ->null
+window_onpointerout_get ->null
+window_onpointerenter_get ->null
+window_onpointerleave_get ->null
+window_onselectstart_get ->null
+window_onselectionchange_get ->null
+window_onanimationend_get ->null
+window_onanimationiteration_get ->null
+window_onanimationstart_get ->null
+window_ontransitionrun_get ->null
+window_ontransitionstart_get ->null
+window_ontransitionend_get ->null
+window_ontransitioncancel_get ->null
+window_onafterprint_get ->null
+window_onbeforeprint_get ->null
+window_onbeforeunload_get ->null
+window_onhashchange_get ->null
+window_onlanguagechange_get ->null
+window_onmessage_get ->null
+window_onmessageerror_get ->null
+window_onoffline_get ->null
+window_ononline_get ->null
+window_onpagehide_get ->null
+window_onpageshow_get ->null
+window_onpopstate_get ->null
+window_onrejectionhandled_get ->null
+window_onstorage_get ->null
+window_onunhandledrejection_get ->null
+window_onunload_get ->null
+window_crossOriginIsolated_get ->false
+window_scheduler_get ->[object Scheduler]
+window_caches_get ->[object CacheStorage]
+window_cookieStore_get ->[object CookieStore]
+window_ondevicemotion_get ->null
+window_ondeviceorientation_get ->null
+window_ondeviceorientationabsolute_get ->null
+window_documentPictureInPicture_get ->[object DocumentPictureInPicture]
+window_launchQueue_get ->[object LaunchQueue]
+window_onbeforematch_get ->null
+window_onbeforetoggle_get ->null
+window_originAgentCluster_get ->null
+window_credentialless_get -> 默认返回falsefalse
+window_speechSynthesis_get ->[object SpeechSynthesis]
+window_oncontentvisibilityautostatechange_get ->null
+window_onscrollend_get ->null
+'[window_offscreenBuffering_get]正在执行,错误信息Cannot read properties of undefined (reading 'apply')'
+window_document_get ->[object HTMLDocument]
+Document_createElement -> canvas -> [object HTMLCanvasElement]
+HTMLCanvasElement_getContext ->type->webgl -> res -> [object WebGLRenderingContext]
+WebGLRenderingContext_getSupportedExtensions=== ANGLE_instanced_arrays,EXT_blend_minmax,EXT_color_buffer_half_float,EXT_disjoint_timer_query,EXT_float_blend,EXT_frag_depth,EXT_shader_texture_lod,EXT_texture_compression_bptc,EXT_texture_compression_rgtc,EXT_texture_filter_anisotropic,WEBKIT_EXT_texture_filter_anisotropic,EXT_sRGB,KHR_parallel_shader_compile,OES_element_index_uint,OES_fbo_render_mipmap,OES_standard_derivatives,OES_texture_float,OES_texture_float_linear,OES_texture_half_float,OES_texture_half_float_linear,OES_vertex_array_object,WEBGL_color_buffer_float,WEBGL_compressed_texture_s3tc,WEBKIT_WEBGL_compressed_texture_s3tc,WEBGL_compressed_texture_s3tc_srgb,WEBGL_debug_renderer_info,WEBGL_debug_shaders,WEBGL_depth_texture,WEBKIT_WEBGL_depth_texture,WEBGL_draw_buffers,WEBGL_lose_context,WEBKIT_WEBGL_lose_context,WEBGL_multi_draw  
+Error stack 检测 !!!!! _arg0->TypeError: Cannot read properties of null (reading '0')
+Error stack 检测 !!!!! _arg1->Array.G (./debugJS.js:121497:2191),__TENCENT_CHAOS_VM (./debugJS.js:121497:4023),Object.Q (./debugJS.js:121497:3112),Array.G (./debugJS.js:121497:3878),__TENCENT_CHAOS_VM (./debugJS.js:121497:4023),Q (./debugJS.js:121497:3112),Array.G (./debugJS.js:121497:3410),__TENCENT_CHAOS_VM (./debugJS.js:121497:4023),Object.Q (./debugJS.js:121497:3112),Array.G (./debugJS.js:121497:3878)
+Error stack 检测 !!!!! 修改返回堆栈为->Error
+  at P (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:237643)
+  at _ (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:156718)
+  at P (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:187048)
+  at i (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:86500)
+  at P (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:188867)
+  at p (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:315359)
+  at P (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:242987)
+  at Object.j [as z] (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:2882)
+  at r (https://static.zhipin.com/fe-zhipin-geek/web/chat/v5167/static/js/app.6e84b227.js:41181:33)
+  at https://static.zhipin.com/fe-zhipin-geek/web/chat/v5167/static/js/app.6e84b227.js:41226:21
+window_document_get ->[object HTMLDocument]
+Document_characterSet_get -> res ->UTF-8
+window_document_get ->[object HTMLDocument]
+[object Window]-> EventTarget_addEventListener 注册事件 ->deviceorientation ->
+window_document_get ->[object HTMLDocument]
+window_document_get ->[object HTMLDocument]
+window_self_get res->window
+window_document_get ->[object HTMLDocument]
+window_name_get  ->res -> 
+window_location_get ->
+window_customElements_get ->[object CustomElementRegistry]
+window_history_get ->[object History]
+window_navigation_get ->[object Navigation]
+window_locationbar_get ->[object BarProp]
+window_menubar_get ->[object BarProp]
+window_personalbar_get ->[object BarProp]
+window_scrollbars_get ->[object BarProp]
+window_statusbar_get ->[object BarProp]
+window_toolbar_get ->[object BarProp]
+window_status_get ->
+window_closed_get ->false
+window_frames_get res->window
+window_length_get  存在问题需要调整 res->0
+window_closed_get ->null
+window_parent_get res->window
+window_frameElement_get ->null
+window_navigator_get ->[object Navigator]
+window_origin_get ->https://passport.gds.org.cn
+window_external_get ->[object External]
+window_screen_get ->[object Screen]
+window_innerWidth_get innerWidth ->1274
+window_innerHeight_get innerHeight ->874
+window_origin_get res ->0
+window_pageXOffset_get res ->0
+window_scrollY_get res ->0
+window_pageYOffset_get res ->0
+window_visualViewport_get ->[object VisualViewport]
+window_screenX_get screenX ->0
+window_screenY_get screenY ->0
+window_outerWidth_get outerWidth ->1274
+window_outerHeight_get outerHeight ->994
+window_devicePixelRatio_get res ->1.5
+window_clientInformation_get ->[object Navigator]
+window_screenLeft_get screenLeft ->0
+window_screenTop_get screenTop ->0
+window_styleMedia_get ->[object StyleMedia]
+window_onsearch_get ->null
+window_isSecureContext_get ->true
+window_trustedTypes_get ->[object TrustedTypePolicyFactory]
+window_performance_get ->[object Performance]
+window_onappinstalled_get ->null
+window_onbeforeinstallprompt_get ->null
+window_crypto_get ->[object Crypto]
+window_indexedDB_get  ->res -> [object IDBFactory]
+window_localStorage_get  ->res -> [object Storage]
+window_localStorage_get  ->res -> [object Storage]
+window_onbeforexrselect_get ->null
+window_onabort_get ->null
+window_onbeforeinput_get ->null
+window_onblur_get ->null
+window_oncancel_get ->null
+window_oncanplay_get ->null
+window_oncanplaythrough_get ->null
+window_onchange_get ->null
+window_onclick_get ->null
+window_onclose_get ->null
+window_oncontextlost_get ->null
+window_oncontextmenu_get ->null
+window_oncontextrestored_get ->null
+window_oncuechange_get ->null
+window_ondblclick_get ->null
+window_ondrag_get ->null
+window_ondragend_get ->null
+window_ondragenter_get ->null
+window_ondragleave_get ->null
+window_ondragover_get ->null
+window_ondragstart_get ->null
+window_ondrop_get ->null
+window_ondurationchange_get ->null
+window_onemptied_get ->null
+window_onended_get ->null
+window_onerror_get ->null
+window_onfocus_get ->null
+window_onformdata_get ->null
+window_oninput_get ->null
+window_oninvalid_get ->null
+window_onkeydown_get ->null
+window_onkeypress_get ->null
+window_onkeyup_get ->null
+window_onload_get ->null
+window_onloadeddata_get ->null
+window_onloadedmetadata_get ->null
+window_onloadstart_get ->null
+window_onmousedown_get ->null
+window_onmouseenter_get ->null
+window_onmouseleave_get ->null
+window_onmousemove_get ->null
+window_onmouseout_get ->null
+window_onmouseover_get ->null
+window_onmouseup_get ->null
+window_onmousewheel_get ->null
+window_onpause_get ->null
+window_onplay_get ->null
+window_onplaying_get ->null
+window_onprogress_get ->null
+window_onratechange_get ->null
+window_onreset_get ->null
+浏览器窗口大小发生变化时执行 window_onresize_get ->null
+window_onscroll_get ->null
+window_onsecuritypolicyviolation_get ->null
+window_onseeked_get ->null
+window_onseeking_get ->null
+window_onselect_get ->null
+window_onslotchange_get ->null
+window_onstalled_get ->null
+window_onsubmit_get ->null
+window_onsuspend_get ->null
+window_ontimeupdate_get ->null
+window_ontoggle_get ->null
+window_onvolumechange_get ->null
+window_onwaiting_get ->null
+window_onwebkitanimationend_get ->null
+window_onwebkitanimationiteration_get ->null
+window_onwebkitanimationstart_get ->null
+window_onwebkittransitionend_get ->null
+window_onwheel_get ->null
+window_onauxclick_get ->null
+window_ongotpointercapture_get ->null
+window_onlostpointercapture_get ->null
+window_onpointerdown_get ->null
+window_onpointermove_get ->null
+window_onpointerrawupdate_get ->null
+window_onpointerup_get ->null
+window_onpointercancel_get ->null
+window_onpointerover_get ->null
+window_onpointerout_get ->null
+window_onpointerenter_get ->null
+window_onpointerleave_get ->null
+window_onselectstart_get ->null
+window_onselectionchange_get ->null
+window_onanimationend_get ->null
+window_onanimationiteration_get ->null
+window_onanimationstart_get ->null
+window_ontransitionrun_get ->null
+window_ontransitionstart_get ->null
+window_ontransitionend_get ->null
+window_ontransitioncancel_get ->null
+window_onafterprint_get ->null
+window_onbeforeprint_get ->null
+window_onbeforeunload_get ->null
+window_onhashchange_get ->null
+window_onlanguagechange_get ->null
+window_onmessage_get ->null
+window_onmessageerror_get ->null
+window_onoffline_get ->null
+window_ononline_get ->null
+window_onpagehide_get ->null
+window_onpageshow_get ->null
+window_onpopstate_get ->null
+window_onrejectionhandled_get ->null
+window_onstorage_get ->null
+window_onunhandledrejection_get ->null
+window_onunload_get ->null
+window_crossOriginIsolated_get ->false
+window_scheduler_get ->[object Scheduler]
+window_caches_get ->[object CacheStorage]
+window_cookieStore_get ->[object CookieStore]
+window_ondevicemotion_get ->null
+window_ondeviceorientation_get ->null
+window_ondeviceorientationabsolute_get ->null
+window_documentPictureInPicture_get ->[object DocumentPictureInPicture]
+window_launchQueue_get ->[object LaunchQueue]
+window_onbeforematch_get ->null
+window_onbeforetoggle_get ->null
+window_originAgentCluster_get ->null
+window_credentialless_get -> 默认返回falsefalse
+window_speechSynthesis_get ->[object SpeechSynthesis]
+window_oncontentvisibilityautostatechange_get ->null
+window_onscrollend_get ->null
+'[window_offscreenBuffering_get]正在执行,错误信息Cannot read properties of undefined (reading 'apply')'
+window_self_get res->window
+window_document_get ->[object HTMLDocument]
+window_name_get  ->res -> 
+window_location_get ->
+window_customElements_get ->[object CustomElementRegistry]
+window_history_get ->[object History]
+window_navigation_get ->[object Navigation]
+window_locationbar_get ->[object BarProp]
+window_menubar_get ->[object BarProp]
+window_personalbar_get ->[object BarProp]
+window_scrollbars_get ->[object BarProp]
+window_statusbar_get ->[object BarProp]
+window_toolbar_get ->[object BarProp]
+window_status_get ->
+window_closed_get ->false
+window_frames_get res->window
+window_length_get  存在问题需要调整 res->0
+window_closed_get ->null
+window_parent_get res->window
+window_frameElement_get ->null
+window_navigator_get ->[object Navigator]
+window_origin_get ->https://passport.gds.org.cn
+window_external_get ->[object External]
+window_screen_get ->[object Screen]
+window_innerWidth_get innerWidth ->1274
+window_innerHeight_get innerHeight ->874
+window_origin_get res ->0
+window_pageXOffset_get res ->0
+window_scrollY_get res ->0
+window_pageYOffset_get res ->0
+window_visualViewport_get ->[object VisualViewport]
+window_screenX_get screenX ->0
+window_screenY_get screenY ->0
+window_outerWidth_get outerWidth ->1274
+window_outerHeight_get outerHeight ->994
+window_devicePixelRatio_get res ->1.5
+window_clientInformation_get ->[object Navigator]
+window_screenLeft_get screenLeft ->0
+window_screenTop_get screenTop ->0
+window_styleMedia_get ->[object StyleMedia]
+window_onsearch_get ->null
+window_isSecureContext_get ->true
+window_trustedTypes_get ->[object TrustedTypePolicyFactory]
+window_performance_get ->[object Performance]
+window_onappinstalled_get ->null
+window_onbeforeinstallprompt_get ->null
+window_crypto_get ->[object Crypto]
+window_indexedDB_get  ->res -> [object IDBFactory]
+window_localStorage_get  ->res -> [object Storage]
+window_localStorage_get  ->res -> [object Storage]
+window_onbeforexrselect_get ->null
+window_onabort_get ->null
+window_onbeforeinput_get ->null
+window_onblur_get ->null
+window_oncancel_get ->null
+window_oncanplay_get ->null
+window_oncanplaythrough_get ->null
+window_onchange_get ->null
+window_onclick_get ->null
+window_onclose_get ->null
+window_oncontextlost_get ->null
+window_oncontextmenu_get ->null
+window_oncontextrestored_get ->null
+window_oncuechange_get ->null
+window_ondblclick_get ->null
+window_ondrag_get ->null
+window_ondragend_get ->null
+window_ondragenter_get ->null
+window_ondragleave_get ->null
+window_ondragover_get ->null
+window_ondragstart_get ->null
+window_ondrop_get ->null
+window_ondurationchange_get ->null
+window_onemptied_get ->null
+window_onended_get ->null
+window_onerror_get ->null
+window_onfocus_get ->null
+window_onformdata_get ->null
+window_oninput_get ->null
+window_oninvalid_get ->null
+window_onkeydown_get ->null
+window_onkeypress_get ->null
+window_onkeyup_get ->null
+window_onload_get ->null
+window_onloadeddata_get ->null
+window_onloadedmetadata_get ->null
+window_onloadstart_get ->null
+window_onmousedown_get ->null
+window_onmouseenter_get ->null
+window_onmouseleave_get ->null
+window_onmousemove_get ->null
+window_onmouseout_get ->null
+window_onmouseover_get ->null
+window_onmouseup_get ->null
+window_onmousewheel_get ->null
+window_onpause_get ->null
+window_onplay_get ->null
+window_onplaying_get ->null
+window_onprogress_get ->null
+window_onratechange_get ->null
+window_onreset_get ->null
+浏览器窗口大小发生变化时执行 window_onresize_get ->null
+window_onscroll_get ->null
+window_onsecuritypolicyviolation_get ->null
+window_onseeked_get ->null
+window_onseeking_get ->null
+window_onselect_get ->null
+window_onslotchange_get ->null
+window_onstalled_get ->null
+window_onsubmit_get ->null
+window_onsuspend_get ->null
+window_ontimeupdate_get ->null
+window_ontoggle_get ->null
+window_onvolumechange_get ->null
+window_onwaiting_get ->null
+window_onwebkitanimationend_get ->null
+window_onwebkitanimationiteration_get ->null
+window_onwebkitanimationstart_get ->null
+window_onwebkittransitionend_get ->null
+window_onwheel_get ->null
+window_onauxclick_get ->null
+window_ongotpointercapture_get ->null
+window_onlostpointercapture_get ->null
+window_onpointerdown_get ->null
+window_onpointermove_get ->null
+window_onpointerrawupdate_get ->null
+window_onpointerup_get ->null
+window_onpointercancel_get ->null
+window_onpointerover_get ->null
+window_onpointerout_get ->null
+window_onpointerenter_get ->null
+window_onpointerleave_get ->null
+window_onselectstart_get ->null
+window_onselectionchange_get ->null
+window_onanimationend_get ->null
+window_onanimationiteration_get ->null
+window_onanimationstart_get ->null
+window_ontransitionrun_get ->null
+window_ontransitionstart_get ->null
+window_ontransitionend_get ->null
+window_ontransitioncancel_get ->null
+window_onafterprint_get ->null
+window_onbeforeprint_get ->null
+window_onbeforeunload_get ->null
+window_onhashchange_get ->null
+window_onlanguagechange_get ->null
+window_onmessage_get ->null
+window_onmessageerror_get ->null
+window_onoffline_get ->null
+window_ononline_get ->null
+window_onpagehide_get ->null
+window_onpageshow_get ->null
+window_onpopstate_get ->null
+window_onrejectionhandled_get ->null
+window_onstorage_get ->null
+window_onunhandledrejection_get ->null
+window_onunload_get ->null
+window_crossOriginIsolated_get ->false
+window_scheduler_get ->[object Scheduler]
+window_caches_get ->[object CacheStorage]
+window_cookieStore_get ->[object CookieStore]
+window_ondevicemotion_get ->null
+window_ondeviceorientation_get ->null
+window_ondeviceorientationabsolute_get ->null
+window_documentPictureInPicture_get ->[object DocumentPictureInPicture]
+window_launchQueue_get ->[object LaunchQueue]
+window_onbeforematch_get ->null
+window_onbeforetoggle_get ->null
+window_originAgentCluster_get ->null
+window_credentialless_get -> 默认返回falsefalse
+window_speechSynthesis_get ->[object SpeechSynthesis]
+window_oncontentvisibilityautostatechange_get ->null
+window_onscrollend_get ->null
+'[window_offscreenBuffering_get]正在执行,错误信息Cannot read properties of undefined (reading 'apply')'
+[object HTMLDocument]-> EventTarget_addEventListener 注册事件 ->mousemove ->
+window_document_get ->[object HTMLDocument]
+window_document_get ->[object HTMLDocument]
+[object HTMLDocument]-> EventTarget_addEventListener 注册事件 ->mousedown ->
+window_document_get ->[object HTMLDocument]
+window_document_get ->[object HTMLDocument]
+[object HTMLDocument]-> EventTarget_addEventListener 注册事件 ->mouseup ->
+window_document_get ->[object HTMLDocument]
+window_document_get ->[object HTMLDocument]
+bodaEnv.memory.asyncEvent[listener] 未实现 touchmove
+[object HTMLDocument]-> EventTarget_addEventListener 注册事件 ->touchmove ->
+window_document_get ->[object HTMLDocument]
+window_document_get ->[object HTMLDocument]
+bodaEnv.memory.asyncEvent[listener] 未实现 touchstart
+[object HTMLDocument]-> EventTarget_addEventListener 注册事件 ->touchstart ->
+window_document_get ->[object HTMLDocument]
+window_document_get ->[object HTMLDocument]
+bodaEnv.memory.asyncEvent[listener] 未实现 touchend
+[object HTMLDocument]-> EventTarget_addEventListener 注册事件 ->touchend ->
+window_document_get ->[object HTMLDocument]
+Document_cookie_get cookie -> 
+window_localStorage_get  ->res -> [object Storage]
+window_localStorage_get  ->res -> [object Storage]
+Storage_getItem key->TDC_itoken item->null  
+window_localStorage_get  ->res -> [object Storage]
+window_localStorage_get  ->res -> [object Storage]
+Storage_getItem key->TDC_itoken item->null  
+window_document_get ->[object HTMLDocument]
+Document_cookie_set -> arg -> TDC_itoken=611086462%3A1728231665; expires=Tue, 31 Dec 2030 00:00:00 UTC; path=/
+Document_cookie_set -> -> 过期时间 -> Tue, 31 Dec 2030 00:00:00 UTC
+Document_cookie_set -> -> cookieValue -> TDC_itoken=611086462%3A1728231665
+window_localStorage_get  ->res -> [object Storage]
+window_localStorage_get  ->res -> [object Storage]
+Storage_setItem keyName->TDC_itoken keyValue->611086462:1728231665  
+window_localStorage_get  ->res -> [object Storage]
+window_localStorage_get  ->res -> [object Storage]
+Storage_setItem keyName->TDC_itoken keyValue->611086462:1728231665  
+Error stack 检测 !!!!! _arg0->ReferenceError: e is not defined
+Error stack 检测 !!!!! _arg1->eval (eval at getValue (./debugJS.js:122141:1), <anonymous>:1:1),getValue (./debugJS.js:122141:1),base.apply (E:\js_Envs\boda_jsEnv\bodaEnv\node_modules\vm2\lib/contextify.js:240:34),main (E:\js_Envs\boda_jsEnv\bodaEnv\main.js:67:19),Object.<anonymous> (E:\js_Envs\boda_jsEnv\bodaEnv\main.js:75:1),Module._compile (node:internal/modules/cjs/loader:1256:14),Module._extensions..js (node:internal/modules/cjs/loader:1310:10),Module.load (node:internal/modules/cjs/loader:1119:32),Module._load (node:internal/modules/cjs/loader:960:12),Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Error stack 检测 !!!!! 修改返回堆栈为->Error
+  at P (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:237643)
+  at _ (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:156718)
+  at P (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:187048)
+  at i (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:86500)
+  at P (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:188867)
+  at p (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:315359)
+  at P (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:242987)
+  at Object.j [as z] (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:2882)
+  at r (https://static.zhipin.com/fe-zhipin-geek/web/chat/v5167/static/js/app.6e84b227.js:41181:33)
+  at https://static.zhipin.com/fe-zhipin-geek/web/chat/v5167/static/js/app.6e84b227.js:41226:21
+Error stack 检测 !!!!! _arg0->ReferenceError: _timeLength is not defined
+Error stack 检测 !!!!! _arg1->eval (eval at getValue (./debugJS.js:122141:1), <anonymous>:1:38),getValue (./debugJS.js:122141:1),base.apply (E:\js_Envs\boda_jsEnv\bodaEnv\node_modules\vm2\lib/contextify.js:240:34),main (E:\js_Envs\boda_jsEnv\bodaEnv\main.js:67:19),Object.<anonymous> (E:\js_Envs\boda_jsEnv\bodaEnv\main.js:75:1),Module._compile (node:internal/modules/cjs/loader:1256:14),Module._extensions..js (node:internal/modules/cjs/loader:1310:10),Module.load (node:internal/modules/cjs/loader:1119:32),Module._load (node:internal/modules/cjs/loader:960:12),Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Error stack 检测 !!!!! 修改返回堆栈为->Error
+  at P (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:237643)
+  at _ (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:156718)
+  at P (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:187048)
+  at i (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:86500)
+  at P (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:188867)
+  at p (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:315359)
+  at P (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:242987)
+  at Object.j [as z] (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:2882)
+  at r (https://static.zhipin.com/fe-zhipin-geek/web/chat/v5167/static/js/app.6e84b227.js:41181:33)
+  at https://static.zhipin.com/fe-zhipin-geek/web/chat/v5167/static/js/app.6e84b227.js:41226:21
+Error stack 检测 !!!!! _arg0->ReferenceError: lastind is not defined
+Error stack 检测 !!!!! _arg1->eval (eval at getValue (./debugJS.js:122141:1), <anonymous>:1:31),getValue (./debugJS.js:122141:1),base.apply (E:\js_Envs\boda_jsEnv\bodaEnv\node_modules\vm2\lib/contextify.js:240:34),main (E:\js_Envs\boda_jsEnv\bodaEnv\main.js:67:19),Object.<anonymous> (E:\js_Envs\boda_jsEnv\bodaEnv\main.js:75:1),Module._compile (node:internal/modules/cjs/loader:1256:14),Module._extensions..js (node:internal/modules/cjs/loader:1310:10),Module.load (node:internal/modules/cjs/loader:1119:32),Module._load (node:internal/modules/cjs/loader:960:12),Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Error stack 检测 !!!!! 修改返回堆栈为->Error
+  at P (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:237643)
+  at _ (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:156718)
+  at P (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:187048)
+  at i (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:86500)
+  at P (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:188867)
+  at p (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:315359)
+  at P (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:242987)
+  at Object.j [as z] (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:2882)
+  at r (https://static.zhipin.com/fe-zhipin-geek/web/chat/v5167/static/js/app.6e84b227.js:41181:33)
+  at https://static.zhipin.com/fe-zhipin-geek/web/chat/v5167/static/js/app.6e84b227.js:41226:21
+Error stack 检测 !!!!! _arg0->ReferenceError: bodaevent is not defined
+Error stack 检测 !!!!! _arg1->eval (eval at getValue (./debugJS.js:122141:1), <anonymous>:1:1),getValue (./debugJS.js:122141:1),base.apply (E:\js_Envs\boda_jsEnv\bodaEnv\node_modules\vm2\lib/contextify.js:240:34),main (E:\js_Envs\boda_jsEnv\bodaEnv\main.js:67:19),Object.<anonymous> (E:\js_Envs\boda_jsEnv\bodaEnv\main.js:75:1),Module._compile (node:internal/modules/cjs/loader:1256:14),Module._extensions..js (node:internal/modules/cjs/loader:1310:10),Module.load (node:internal/modules/cjs/loader:1119:32),Module._load (node:internal/modules/cjs/loader:960:12),Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Error stack 检测 !!!!! 修改返回堆栈为->Error
+  at P (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:237643)
+  at _ (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:156718)
+  at P (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:187048)
+  at i (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:86500)
+  at P (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:188867)
+  at p (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:315359)
+  at P (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:242987)
+  at Object.j [as z] (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:2882)
+  at r (https://static.zhipin.com/fe-zhipin-geek/web/chat/v5167/static/js/app.6e84b227.js:41181:33)
+  at https://static.zhipin.com/fe-zhipin-geek/web/chat/v5167/static/js/app.6e84b227.js:41226:21
+window_document_get ->[object HTMLDocument]
+window_document_get ->[object HTMLDocument]
+Document_documentElement_get ->[object HTMLHtmlElement]
+window_document_get ->[object HTMLDocument]
+window_document_get ->[object HTMLDocument]
+Document_cookie_get cookie -> TDC_itoken=611086462%3A1728231665
+Error stack 检测 !!!!! _arg0->ReferenceError: e is not defined
+Error stack 检测 !!!!! _arg1->eval (eval at getValue (./debugJS.js:122141:1), <anonymous>:1:1),getValue (./debugJS.js:122141:1),base.apply (E:\js_Envs\boda_jsEnv\bodaEnv\node_modules\vm2\lib/contextify.js:240:34),main (E:\js_Envs\boda_jsEnv\bodaEnv\main.js:67:19),Object.<anonymous> (E:\js_Envs\boda_jsEnv\bodaEnv\main.js:75:1),Module._compile (node:internal/modules/cjs/loader:1256:14),Module._extensions..js (node:internal/modules/cjs/loader:1310:10),Module.load (node:internal/modules/cjs/loader:1119:32),Module._load (node:internal/modules/cjs/loader:960:12),Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+Error stack 检测 !!!!! 修改返回堆栈为->Error
+  at P (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:237643)
+  at _ (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:156718)
+  at P (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:187048)
+  at i (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:86500)
+  at P (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:188867)
+  at p (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:315359)
+  at P (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:242987)
+  at Object.j [as z] (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:2882)
+  at r (https://static.zhipin.com/fe-zhipin-geek/web/chat/v5167/static/js/app.6e84b227.js:41181:33)
+  at https://static.zhipin.com/fe-zhipin-geek/web/chat/v5167/static/js/app.6e84b227.js:41226:21
+Error stack 检测 !!!!! _arg0->Error: errr
+Error stack 检测 !!!!! _arg1->./debugJS.js:121497:636,B (./debugJS.js:121497:667),Array.G (./debugJS.js:121497:1524),__TENCENT_CHAOS_VM (./debugJS.js:121497:4023),Q (./debugJS.js:121497:3112),Array.G (./debugJS.js:121497:3410),__TENCENT_CHAOS_VM (./debugJS.js:121497:4023),Object.Q [as getData] (./debugJS.js:121497:3112),getValue (./debugJS.js:122142:56),base.apply (E:\js_Envs\boda_jsEnv\bodaEnv\node_modules\vm2\lib/contextify.js:240:34)
+Error stack 检测 !!!!! 修改返回堆栈为->Error
+  at P (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:237643)
+  at _ (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:156718)
+  at P (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:187048)
+  at i (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:86500)
+  at P (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:188867)
+  at p (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:315359)
+  at P (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:242987)
+  at Object.j [as z] (https://www.zhipin.com/web/common/security-js/87b7f462.js:1:2882)
+  at r (https://static.zhipin.com/fe-zhipin-geek/web/chat/v5167/static/js/app.6e84b227.js:41181:33)
+  at https://static.zhipin.com/fe-zhipin-geek/web/chat/v5167/static/js/app.6e84b227.js:41226:21
+window_screen_get ->[object Screen]
+Screen_width_get 1280  
+window_screen_get ->[object Screen]
+Screen_height_get 1024  
+window_screen_get ->[object Screen]
+Screen_availHeight_get 974  
+window_screen_get ->[object Screen]
+Screen_colorDepth_get 24  
+window_screen_get ->[object Screen]
+window_screen_get ->[object Screen]
+window_screen_get ->[object Screen]
+Screen_pixelDepth_get 24  
+window_screen_get ->[object Screen]
+window_document_get ->[object HTMLDocument]
+Document_createElement -> span -> [object HTMLSpanElement]
+[object HTMLSpanElement]-> Element_setAttribute ->_k : id -> _v : 27087524
+window_document_get ->[object HTMLDocument]
+[object HTMLDocument]-> Document_body_get -> [object HTMLBodyElement]
+[object HTMLBodyElement]-> Node_appendChild -> appendChild -> [object HTMLSpanElement]
+window_document_get ->[object HTMLDocument]
+Document_getElementById -> id ->27087524-> res ->[object HTMLSpanElement]
+window_document_get ->[object HTMLDocument]
+[object HTMLDocument]-> Document_body_get -> [object HTMLBodyElement]
+[object HTMLBodyElement]-> Node_removeChild -> [object HTMLSpanElement]
+window_customElements_get ->[object CustomElementRegistry]
+CSS_supports arg0 -> overscroll-behavior -> arg1 -> auto -> 未实现 !!!!!!!!!!
+CSS_supports arg0 -> -webkit-overscroll-behavior -> arg1 -> auto -> 未实现 !!!!!!!!!!
+CSS_supports arg0 -> -o-overscroll-behavior -> arg1 -> auto -> 未实现 !!!!!!!!!!
+CSS_supports arg0 -> -moz-overscroll-behavior -> arg1 -> auto -> 未实现 !!!!!!!!!!
+CSS_supports arg0 -> -ms-overscroll-behavior -> arg1 -> auto -> 未实现 !!!!!!!!!!
+[object HTMLDivElement]-> HTMLElement_style_get -> res -> [object CSSStyleDeclaration]
+window_document_get ->[object HTMLDocument]
+Document_createElement -> div -> [object HTMLDivElement]
+window_document_get ->[object HTMLDocument]
+[object HTMLDocument]-> Document_body_get -> [object HTMLBodyElement]
+[object HTMLBodyElement]-> Node_appendChild -> appendChild -> [object HTMLDivElement]
+[object HTMLDivElement] -> Element_innerHTML_set -> innerHTML -> <div class="left">
+        <div id="startButton" class="button">
+          Start
+        </div>
+        <h2>Preview</h2>
+        <video id="preview" width="160" height="120" autoplay muted></video>
+      </div>
+window_document_get ->[object HTMLDocument]
+Document_getElementById -> id ->preview-> res ->[object HTMLVideoElement]
+window_document_get ->[object HTMLDocument]
+[object HTMLDocument]-> Document_body_get -> [object HTMLBodyElement]
+[object HTMLBodyElement]-> Node_removeChild -> [object HTMLDivElement]
+window_document_get ->[object HTMLDocument]
+Document_createElement -> style -> [object HTMLStyleElement]
+[object HTMLStyleElement] -> Element_innerHTML_set -> innerHTML -> ::marker{}
+window_document_get ->[object HTMLDocument]
+Document_head_get -> res -> [object HTMLHeadElement]
+[object HTMLHeadElement]-> Node_appendChild -> appendChild -> [object HTMLStyleElement]
+[object HTMLStyleElement] -> HTMLStyleElement_sheet_get sheet-> [object CSSStyleSheet]
+[object CSSStyleSheet] -> CSSStyleSheet_cssRules_get 默认返回一个 需要根据实际进行调整!!!!!-> 
+[object CSSRuleList] -> CSSRuleList_length_get length-> 1
+[object HTMLStyleElement] -> Element_remove
+window_document_get ->[object HTMLDocument]
+Document_createElement -> div -> [object HTMLDivElement]
+window_document_get ->[object HTMLDocument]
+[object HTMLDocument]-> Document_body_get -> [object HTMLBodyElement]
+[object HTMLBodyElement]-> Node_appendChild -> appendChild -> [object HTMLDivElement]
+[object HTMLDivElement] -> Element_innerHTML_set -> innerHTML -> <section><h3 id='firsth'>green</h3><p id='firstp'>red</p>green</section><section class='with-revert'><h3 id='secondh'>black</h3><p id='secondp'>red</p>black</section>
+window_document_get ->[object HTMLDocument]
+Document_createElement -> style -> [object HTMLStyleElement]
+[object HTMLStyleElement] -> Element_innerHTML_set -> innerHTML -> section { color: green } p { color: red } section.with-revert { color: revert }
+window_document_get ->[object HTMLDocument]
+Document_head_get -> res -> [object HTMLHeadElement]
+[object HTMLHeadElement]-> Node_appendChild -> appendChild -> [object HTMLStyleElement]
+window_document_get ->[object HTMLDocument]
+Document_getElementById -> id ->firsth-> res ->[object HTMLHeadingElement]
+window_getComputedStyle -> 
+使用 getComputedStyle args->[object HTMLHeadingElement] , null -> res ->[object CSSStyleDeclaration]
+      [CSSStyleDeclaration2::proxyHelper]   获取属性:   getPropertyValue   value:   function getPropertyValue() { [native code] }
+[object HTMLHeadingElement]-> Element_innerHTML_get -> res -> green
+CSSStyleDeclaration_getPropertyValue 可能存在color检测 !!!!!! arg ->color -> res_rgb ->rgb(0, 128, 0)
+window_document_get ->[object HTMLDocument]
+Document_getElementById -> id ->firstp-> res ->[object HTMLParagraphElement]
+window_getComputedStyle -> 
+使用 getComputedStyle args->[object HTMLParagraphElement] , null -> res ->[object CSSStyleDeclaration]
+      [CSSStyleDeclaration2::proxyHelper]   获取属性:   getPropertyValue   value:   function getPropertyValue() { [native code] }
+[object HTMLParagraphElement]-> Element_innerHTML_get -> res -> red
+CSSStyleDeclaration_getPropertyValue 可能存在color检测 !!!!!! arg ->color -> res_rgb ->rgb(255, 0, 0)
+window_document_get ->[object HTMLDocument]
+Document_getElementById -> id ->secondh-> res ->[object HTMLHeadingElement]
+window_getComputedStyle -> 
+使用 getComputedStyle args->[object HTMLHeadingElement] , null -> res ->[object CSSStyleDeclaration]
+      [CSSStyleDeclaration2::proxyHelper]   获取属性:   getPropertyValue   value:   function getPropertyValue() { [native code] }
+[object HTMLHeadingElement]-> Element_innerHTML_get -> res -> black
+CSSStyleDeclaration_getPropertyValue 可能存在color检测 !!!!!! arg ->color -> res_rgb ->rgb(0, 0, 0)
+window_document_get ->[object HTMLDocument]
+Document_getElementById -> id ->secondp-> res ->[object HTMLParagraphElement]
+window_getComputedStyle -> 
+使用 getComputedStyle args->[object HTMLParagraphElement] , null -> res ->[object CSSStyleDeclaration]
+      [CSSStyleDeclaration2::proxyHelper]   获取属性:   getPropertyValue   value:   function getPropertyValue() { [native code] }
+[object HTMLParagraphElement]-> Element_innerHTML_get -> res -> red
+CSSStyleDeclaration_getPropertyValue 可能存在color检测 !!!!!! arg ->color -> res_rgb ->rgb(255, 0, 0)
+window_document_get ->[object HTMLDocument]
+[object HTMLDocument]-> Document_body_get -> [object HTMLBodyElement]
+[object HTMLBodyElement]-> Node_removeChild -> [object HTMLDivElement]
+[object HTMLStyleElement] -> Element_remove
+window_navigator_get ->[object Navigator]
+window_matchMedia arg ->(prefers-color-scheme: dark)-> res ->[object MediaQueryList]
+MediaQueryList_matches_get -> matches_ (prefers-color-scheme: dark)-> res ->false
+window_matchMedia arg ->(prefers-color-scheme: light)-> res ->[object MediaQueryList]
+MediaQueryList_matches_get -> matches_ (prefers-color-scheme: light)-> res ->true
+window_matchMedia arg ->(prefers-reduced-motion: reduce)-> res ->[object MediaQueryList]
+MediaQueryList_matches_get -> matches_ (prefers-reduced-motion: reduce)-> res ->false
+window_matchMedia arg ->(prefers-reduced-motion: no-preference)-> res ->[object MediaQueryList]
+MediaQueryList_matches_get -> matches_ (prefers-reduced-motion: no-preference)-> res ->true
+window_navigator_get ->[object Navigator]
+window_document_get ->[object HTMLDocument]
+Document_createElement -> div -> [object HTMLDivElement]
+window_document_get ->[object HTMLDocument]
+[object HTMLDocument]-> Document_body_get -> [object HTMLBodyElement]
+[object HTMLBodyElement]-> Node_appendChild -> appendChild -> [object HTMLDivElement]
+[object HTMLDivElement] -> Element_innerHTML_set -> innerHTML -> <p class="firstp">firstp</p>
+        <p id="secondp">secondp</p>
+        <p class="thirdp">thirdp</p>
+        <h2>
+          <span class="foo">foo</span>
+          <span class="bar" id="bar">bar</span>
+        </h2>
+window_document_get ->[object HTMLDocument]
+Document_createElement -> style -> [object HTMLStyleElement]
+[object HTMLStyleElement] -> Element_innerHTML_set -> innerHTML -> body :not(.firstp, .thirdp) {
+        color: blue;
+      }
+      h2 :not(span.foo) {
+        color: red;
+      }
+window_document_get ->[object HTMLDocument]
+Document_head_get -> res -> [object HTMLHeadElement]
+[object HTMLHeadElement]-> Node_appendChild -> appendChild -> [object HTMLStyleElement]
+window_document_get ->[object HTMLDocument]
+Document_getElementById -> id ->secondp-> res ->[object HTMLParagraphElement]
+window_getComputedStyle -> 
+使用 getComputedStyle args->[object HTMLParagraphElement] , null -> res ->[object CSSStyleDeclaration]
+      [CSSStyleDeclaration2::proxyHelper]   获取属性:   getPropertyValue   value:   function getPropertyValue() { [native code] }
+[object HTMLParagraphElement]-> Element_innerHTML_get -> res -> secondp
+CSSStyleDeclaration_getPropertyValue 可能存在color检测 !!!!!! arg ->color -> res_rgb ->rgb(0, 0, 255)
+window_document_get ->[object HTMLDocument]
+Document_getElementById -> id ->bar-> res ->[object HTMLSpanElement]
+window_getComputedStyle -> 
+使用 getComputedStyle args->[object HTMLSpanElement] , null -> res ->[object CSSStyleDeclaration]
+      [CSSStyleDeclaration2::proxyHelper]   获取属性:   getPropertyValue   value:   function getPropertyValue() { [native code] }
+[object HTMLSpanElement]-> Element_innerHTML_get -> res -> bar
+CSSStyleDeclaration_getPropertyValue 可能存在color检测 !!!!!! arg ->color -> res_rgb ->rgb(255, 0, 0)
+window_document_get ->[object HTMLDocument]
+[object HTMLDocument]-> Document_body_get -> [object HTMLBodyElement]
+[object HTMLBodyElement]-> Node_removeChild -> [object HTMLDivElement]
+[object HTMLStyleElement] -> Element_remove
+window_document_get ->[object HTMLDocument]
+document_location_get res ->location
+location_href_get res->about:blank
+WebGLRenderingContext_getExtension WEBGL_debug_renderer_info  
+WebGLRenderingContext_getParameter 37445  -> res ->Google Inc. (Intel)
+window_document_get ->[object HTMLDocument]
+Document_createElement -> iframe -> [object HTMLIFrameElement]
+[object HTMLIFrameElement]-> HTMLElement_style_get -> res -> [object CSSStyleDeclaration]
+      [CSSStyleDeclaration2:proxyHelper]   设置属性:   display   value:   none
+window_document_get ->[object HTMLDocument]
+[object HTMLDocument]-> Document_body_get -> [object HTMLBodyElement]
+[object HTMLBodyElement]-> Node_appendChild -> appendChild -> [object HTMLIFrameElement]
+HTMLIFrameElement_contentWindow_get ->res -> iframe Window
+      [iframe0::proxyWindow]   获取属性:   top   value:   [object Window]
+window_document_get ->[object HTMLDocument]
+[object HTMLDocument]-> Document_body_get -> [object HTMLBodyElement]
+[object HTMLBodyElement]-> Node_removeChild -> [object HTMLIFrameElement]
+window_document_get ->[object HTMLDocument]
+window_self_get res->window
+window_document_get ->[object HTMLDocument]
+window_name_get  ->res -> 
+window_location_get ->
+window_customElements_get ->[object CustomElementRegistry]
+window_history_get ->[object History]
+window_navigation_get ->[object Navigation]
+window_locationbar_get ->[object BarProp]
+window_menubar_get ->[object BarProp]
+window_personalbar_get ->[object BarProp]
+window_scrollbars_get ->[object BarProp]
+window_statusbar_get ->[object BarProp]
+window_toolbar_get ->[object BarProp]
+window_status_get ->
+window_closed_get ->false
+window_frames_get res->window
+window_length_get  存在问题需要调整 res->1
+window_closed_get ->null
+window_parent_get res->window
+window_frameElement_get ->null
+window_navigator_get ->[object Navigator]
+window_origin_get ->https://passport.gds.org.cn
+window_external_get ->[object External]
+window_screen_get ->[object Screen]
+window_innerWidth_get innerWidth ->1274
+window_innerHeight_get innerHeight ->874
+window_origin_get res ->0
+window_pageXOffset_get res ->0
+window_scrollY_get res ->0
+window_pageYOffset_get res ->0
+window_visualViewport_get ->[object VisualViewport]
+window_screenX_get screenX ->0
+window_screenY_get screenY ->0
+window_outerWidth_get outerWidth ->1274
+window_outerHeight_get outerHeight ->994
+window_devicePixelRatio_get res ->1.5
+window_clientInformation_get ->[object Navigator]
+window_screenLeft_get screenLeft ->0
+window_screenTop_get screenTop ->0
+window_styleMedia_get ->[object StyleMedia]
+window_onsearch_get ->null
+window_isSecureContext_get ->true
+window_trustedTypes_get ->[object TrustedTypePolicyFactory]
+window_performance_get ->[object Performance]
+window_onappinstalled_get ->null
+window_onbeforeinstallprompt_get ->null
+window_crypto_get ->[object Crypto]
+window_indexedDB_get  ->res -> [object IDBFactory]
+window_localStorage_get  ->res -> [object Storage]
+window_localStorage_get  ->res -> [object Storage]
+window_onbeforexrselect_get ->null
+window_onabort_get ->null
+window_onbeforeinput_get ->null
+window_onblur_get ->null
+window_oncancel_get ->null
+window_oncanplay_get ->null
+window_oncanplaythrough_get ->null
+window_onchange_get ->null
+window_onclick_get ->null
+window_onclose_get ->null
+window_oncontextlost_get ->null
+window_oncontextmenu_get ->null
+window_oncontextrestored_get ->null
+window_oncuechange_get ->null
+window_ondblclick_get ->null
+window_ondrag_get ->null
+window_ondragend_get ->null
+window_ondragenter_get ->null
+window_ondragleave_get ->null
+window_ondragover_get ->null
+window_ondragstart_get ->null
+window_ondrop_get ->null
+window_ondurationchange_get ->null
+window_onemptied_get ->null
+window_onended_get ->null
+window_onerror_get ->null
+window_onfocus_get ->null
+window_onformdata_get ->null
+window_oninput_get ->null
+window_oninvalid_get ->null
+window_onkeydown_get ->null
+window_onkeypress_get ->null
+window_onkeyup_get ->null
+window_onload_get ->null
+window_onloadeddata_get ->null
+window_onloadedmetadata_get ->null
+window_onloadstart_get ->null
+window_onmousedown_get ->null
+window_onmouseenter_get ->null
+window_onmouseleave_get ->null
+window_onmousemove_get ->null
+window_onmouseout_get ->null
+window_onmouseover_get ->null
+window_onmouseup_get ->null
+window_onmousewheel_get ->null
+window_onpause_get ->null
+window_onplay_get ->null
+window_onplaying_get ->null
+window_onprogress_get ->null
+window_onratechange_get ->null
+window_onreset_get ->null
+浏览器窗口大小发生变化时执行 window_onresize_get ->null
+window_onscroll_get ->null
+window_onsecuritypolicyviolation_get ->null
+window_onseeked_get ->null
+window_onseeking_get ->null
+window_onselect_get ->null
+window_onslotchange_get ->null
+window_onstalled_get ->null
+window_onsubmit_get ->null
+window_onsuspend_get ->null
+window_ontimeupdate_get ->null
+window_ontoggle_get ->null
+window_onvolumechange_get ->null
+window_onwaiting_get ->null
+window_onwebkitanimationend_get ->null
+window_onwebkitanimationiteration_get ->null
+window_onwebkitanimationstart_get ->null
+window_onwebkittransitionend_get ->null
+window_onwheel_get ->null
+window_onauxclick_get ->null
+window_ongotpointercapture_get ->null
+window_onlostpointercapture_get ->null
+window_onpointerdown_get ->null
+window_onpointermove_get ->null
+window_onpointerrawupdate_get ->null
+window_onpointerup_get ->null
+window_onpointercancel_get ->null
+window_onpointerover_get ->null
+window_onpointerout_get ->null
+window_onpointerenter_get ->null
+window_onpointerleave_get ->null
+window_onselectstart_get ->null
+window_onselectionchange_get ->null
+window_onanimationend_get ->null
+window_onanimationiteration_get ->null
+window_onanimationstart_get ->null
+window_ontransitionrun_get ->null
+window_ontransitionstart_get ->null
+window_ontransitionend_get ->null
+window_ontransitioncancel_get ->null
+window_onafterprint_get ->null
+window_onbeforeprint_get ->null
+window_onbeforeunload_get ->null
+window_onhashchange_get ->null
+window_onlanguagechange_get ->null
+window_onmessage_get ->null
+window_onmessageerror_get ->null
+window_onoffline_get ->null
+window_ononline_get ->null
+window_onpagehide_get ->null
+window_onpageshow_get ->null
+window_onpopstate_get ->null
+window_onrejectionhandled_get ->null
+window_onstorage_get ->null
+window_onunhandledrejection_get ->null
+window_onunload_get ->null
+window_crossOriginIsolated_get ->false
+window_scheduler_get ->[object Scheduler]
+window_caches_get ->[object CacheStorage]
+window_cookieStore_get ->[object CookieStore]
+window_ondevicemotion_get ->null
+window_ondeviceorientation_get ->null
+window_ondeviceorientationabsolute_get ->null
+window_documentPictureInPicture_get ->[object DocumentPictureInPicture]
+window_launchQueue_get ->[object LaunchQueue]
+window_onbeforematch_get ->null
+window_onbeforetoggle_get ->null
+window_originAgentCluster_get ->null
+window_credentialless_get -> 默认返回falsefalse
+window_speechSynthesis_get ->[object SpeechSynthesis]
+window_oncontentvisibilityautostatechange_get ->null
+window_onscrollend_get ->null
+'[window_offscreenBuffering_get]正在执行,错误信息Cannot read properties of undefined (reading 'apply')'
+window_self_get res->window
+window_document_get ->[object HTMLDocument]
+window_name_get  ->res -> 
+window_location_get ->
+window_customElements_get ->[object CustomElementRegistry]
+window_history_get ->[object History]
+window_navigation_get ->[object Navigation]
+window_locationbar_get ->[object BarProp]
+window_menubar_get ->[object BarProp]
+window_personalbar_get ->[object BarProp]
+window_scrollbars_get ->[object BarProp]
+window_statusbar_get ->[object BarProp]
+window_toolbar_get ->[object BarProp]
+window_status_get ->
+window_closed_get ->false
+window_frames_get res->window
+window_length_get  存在问题需要调整 res->1
+window_closed_get ->null
+window_parent_get res->window
+window_frameElement_get ->null
+window_navigator_get ->[object Navigator]
+window_origin_get ->https://passport.gds.org.cn
+window_external_get ->[object External]
+window_screen_get ->[object Screen]
+window_innerWidth_get innerWidth ->1274
+window_innerHeight_get innerHeight ->874
+window_origin_get res ->0
+window_pageXOffset_get res ->0
+window_scrollY_get res ->0
+window_pageYOffset_get res ->0
+window_visualViewport_get ->[object VisualViewport]
+window_screenX_get screenX ->0
+window_screenY_get screenY ->0
+window_outerWidth_get outerWidth ->1274
+window_outerHeight_get outerHeight ->994
+window_devicePixelRatio_get res ->1.5
+window_clientInformation_get ->[object Navigator]
+window_screenLeft_get screenLeft ->0
+window_screenTop_get screenTop ->0
+window_styleMedia_get ->[object StyleMedia]
+window_onsearch_get ->null
+window_isSecureContext_get ->true
+window_trustedTypes_get ->[object TrustedTypePolicyFactory]
+window_performance_get ->[object Performance]
+window_onappinstalled_get ->null
+window_onbeforeinstallprompt_get ->null
+window_crypto_get ->[object Crypto]
+window_indexedDB_get  ->res -> [object IDBFactory]
+window_localStorage_get  ->res -> [object Storage]
+window_localStorage_get  ->res -> [object Storage]
+window_onbeforexrselect_get ->null
+window_onabort_get ->null
+window_onbeforeinput_get ->null
+window_onblur_get ->null
+window_oncancel_get ->null
+window_oncanplay_get ->null
+window_oncanplaythrough_get ->null
+window_onchange_get ->null
+window_onclick_get ->null
+window_onclose_get ->null
+window_oncontextlost_get ->null
+window_oncontextmenu_get ->null
+window_oncontextrestored_get ->null
+window_oncuechange_get ->null
+window_ondblclick_get ->null
+window_ondrag_get ->null
+window_ondragend_get ->null
+window_ondragenter_get ->null
+window_ondragleave_get ->null
+window_ondragover_get ->null
+window_ondragstart_get ->null
+window_ondrop_get ->null
+window_ondurationchange_get ->null
+window_onemptied_get ->null
+window_onended_get ->null
+window_onerror_get ->null
+window_onfocus_get ->null
+window_onformdata_get ->null
+window_oninput_get ->null
+window_oninvalid_get ->null
+window_onkeydown_get ->null
+window_onkeypress_get ->null
+window_onkeyup_get ->null
+window_onload_get ->null
+window_onloadeddata_get ->null
+window_onloadedmetadata_get ->null
+window_onloadstart_get ->null
+window_onmousedown_get ->null
+window_onmouseenter_get ->null
+window_onmouseleave_get ->null
+window_onmousemove_get ->null
+window_onmouseout_get ->null
+window_onmouseover_get ->null
+window_onmouseup_get ->null
+window_onmousewheel_get ->null
+window_onpause_get ->null
+window_onplay_get ->null
+window_onplaying_get ->null
+window_onprogress_get ->null
+window_onratechange_get ->null
+window_onreset_get ->null
+浏览器窗口大小发生变化时执行 window_onresize_get ->null
+window_onscroll_get ->null
+window_onsecuritypolicyviolation_get ->null
+window_onseeked_get ->null
+window_onseeking_get ->null
+window_onselect_get ->null
+window_onslotchange_get ->null
+window_onstalled_get ->null
+window_onsubmit_get ->null
+window_onsuspend_get ->null
+window_ontimeupdate_get ->null
+window_ontoggle_get ->null
+window_onvolumechange_get ->null
+window_onwaiting_get ->null
+window_onwebkitanimationend_get ->null
+window_onwebkitanimationiteration_get ->null
+window_onwebkitanimationstart_get ->null
+window_onwebkittransitionend_get ->null
+window_onwheel_get ->null
+window_onauxclick_get ->null
+window_ongotpointercapture_get ->null
+window_onlostpointercapture_get ->null
+window_onpointerdown_get ->null
+window_onpointermove_get ->null
+window_onpointerrawupdate_get ->null
+window_onpointerup_get ->null
+window_onpointercancel_get ->null
+window_onpointerover_get ->null
+window_onpointerout_get ->null
+window_onpointerenter_get ->null
+window_onpointerleave_get ->null
+window_onselectstart_get ->null
+window_onselectionchange_get ->null
+window_onanimationend_get ->null
+window_onanimationiteration_get ->null
+window_onanimationstart_get ->null
+window_ontransitionrun_get ->null
+window_ontransitionstart_get ->null
+window_ontransitionend_get ->null
+window_ontransitioncancel_get ->null
+window_onafterprint_get ->null
+window_onbeforeprint_get ->null
+window_onbeforeunload_get ->null
+window_onhashchange_get ->null
+window_onlanguagechange_get ->null
+window_onmessage_get ->null
+window_onmessageerror_get ->null
+window_onoffline_get ->null
+window_ononline_get ->null
+window_onpagehide_get ->null
+window_onpageshow_get ->null
+window_onpopstate_get ->null
+window_onrejectionhandled_get ->null
+window_onstorage_get ->null
+window_onunhandledrejection_get ->null
+window_onunload_get ->null
+window_crossOriginIsolated_get ->false
+window_scheduler_get ->[object Scheduler]
+window_caches_get ->[object CacheStorage]
+window_cookieStore_get ->[object CookieStore]
+window_ondevicemotion_get ->null
+window_ondeviceorientation_get ->null
+window_ondeviceorientationabsolute_get ->null
+window_documentPictureInPicture_get ->[object DocumentPictureInPicture]
+window_launchQueue_get ->[object LaunchQueue]
+window_onbeforematch_get ->null
+window_onbeforetoggle_get ->null
+window_originAgentCluster_get ->null
+window_credentialless_get -> 默认返回falsefalse
+window_speechSynthesis_get ->[object SpeechSynthesis]
+window_oncontentvisibilityautostatechange_get ->null
+window_onscrollend_get ->null
+'[window_offscreenBuffering_get]正在执行,错误信息Cannot read properties of undefined (reading 'apply')'
+Document_createElement -> div -> [object HTMLDivElement]
+window_navigator_get ->[object Navigator]
+Navigator_hardwareConcurrency_get ->8  
+window_screen_get ->[object Screen]
+Screen_width_get 1280  
+JSON.stringify5    arg0:   arg1: undefined->res->[]
+window_navigator_get ->[object Navigator]
+Navigator_platform_get res->Win32
+window_innerWidth_get innerWidth ->1274
+window_innerHeight_get innerHeight ->874
+WebGLRenderingContext_getExtension WEBGL_debug_renderer_info  
+WebGLRenderingContext_getParameter 37446  -> res ->ANGLE (Intel, Intel(R) UHD Graphics 615 (0x00003E78) Direct3D11 vs_5_0 ps_5_0, D3D11)
+window_document_get ->[object HTMLDocument]
+Document_createElement -> canvas -> [object HTMLCanvasElement]
+HTMLCanvasElement_getContext ->type->2d -> res -> [object CanvasRenderingContext2D]
+CanvasRenderingContext2D_textBaseline_set textBaseline ->top
+CanvasRenderingContext2D_font_set font ->14px 'Arial'
+CanvasRenderingContext2D_textBaseline_set textBaseline ->alphabetic
+CanvasRenderingContext2D_fillStyle_set fillStyle ->#f60
+CanvasRenderingContext2D_fillRect fillRect ->[object Arguments]
+CanvasRenderingContext2D_fillStyle_set fillStyle ->#069
+CanvasRenderingContext2D_fillText fillText ->[object Arguments]
+CanvasRenderingContext2D_fillStyle_set fillStyle ->rgba(102, 204, 0, 0.7)
+CanvasRenderingContext2D_fillText fillText ->[object Arguments]
+[object HTMLCanvasElement]-> HTMLCanvasElement_toDataURL -> '2d' -> data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACWCAYAAABkW7XSAAAEYklEQVR4Xu3UAQkAAAwCwdm/9HI83BLIOdw5AgQIRAQWySkmAQIEzmB5AgIEMgIGK1OVoAQIGCw/QIBARsBgZaoSlAABg+UHCBDICBisTFWCEiBgsPwAAQIZAYOVqUpQAgQMlh8gQCAjYLAyVQlKgIDB8gMECGQEDFamKkEJEDBYfoAAgYyAwcpUJSgBAgbLDxAgkBEwWJmqBCVAwGD5AQIEMgIGK1OVoAQIGCw/QIBARsBgZaoSlAABg+UHCBDICBisTFWCEiBgsPwAAQIZAYOVqUpQAgQMlh8gQCAjYLAyVQlKgIDB8gMECGQEDFamKkEJEDBYfoAAgYyAwcpUJSgBAgbLDxAgkBEwWJmqBCVAwGD5AQIEMgIGK1OVoAQIGCw/QIBARsBgZaoSlAABg+UHCBDICBisTFWCEiBgsPwAAQIZAYOVqUpQAgQMlh8gQCAjYLAyVQlKgIDB8gMECGQEDFamKkEJEDBYfoAAgYyAwcpUJSgBAgbLDxAgkBEwWJmqBCVAwGD5AQIEMgIGK1OVoAQIGCw/QIBARsBgZaoSlAABg+UHCBDICBisTFWCEiBgsPwAAQIZAYOVqUpQAgQMlh8gQCAjYLAyVQlKgIDB8gMECGQEDFamKkEJEDBYfoAAgYyAwcpUJSgBAgbLDxAgkBEwWJmqBCVAwGD5AQIEMgIGK1OVoAQIGCw/QIBARsBgZaoSlAABg+UHCBDICBisTFWCEiBgsPwAAQIZAYOVqUpQAgQMlh8gQCAjYLAyVQlKgIDB8gMECGQEDFamKkEJEDBYfoAAgYyAwcpUJSgBAgbLDxAgkBEwWJmqBCVAwGD5AQIEMgIGK1OVoAQIGCw/QIBARsBgZaoSlAABg+UHCBDICBisTFWCEiBgsPwAAQIZAYOVqUpQAgQMlh8gQCAjYLAyVQlKgIDB8gMECGQEDFamKkEJEDBYfoAAgYyAwcpUJSgBAgbLDxAgkBEwWJmqBCVAwGD5AQIEMgIGK1OVoAQIGCw/QIBARsBgZaoSlAABg+UHCBDICBisTFWCEiBgsPwAAQIZAYOVqUpQAgQMlh8gQCAjYLAyVQlKgIDB8gMECGQEDFamKkEJEDBYfoAAgYyAwcpUJSgBAgbLDxAgkBEwWJmqBCVAwGD5AQIEMgIGK1OVoAQIGCw/QIBARsBgZaoSlAABg+UHCBDICBisTFWCEiBgsPwAAQIZAYOVqUpQAgQMlh8gQCAjYLAyVQlKgIDB8gMECGQEDFamKkEJEDBYfoAAgYyAwcpUJSgBAgbLDxAgkBEwWJmqBCVAwGD5AQIEMgIGK1OVoAQIGCw/QIBARsBgZaoSlAABg+UHCBDICBisTFWCEiBgsPwAAQIZAYOVqUpQAgQMlh8gQCAjYLAyVQlKgIDB8gMECGQEDFamKkEJEDBYfoAAgYyAwcpUJSgBAgbLDxAgkBEwWJmqBCVAwGD5AQIEMgIGK1OVoAQIGCw/QIBARsBgZaoSlACBB1YxAJfjJb2jAAAAAElFTkSuQmCCiGFbIXbCpl4W9pBwe2bNXtGfBXOL6bEDYux=
+window_navigator_get ->[object Navigator]
+Navigator_appVersion_get res->undefined
+window_navigator_get ->[object Navigator]
+Navigator_userAgent_get res->Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+window_document_get ->[object HTMLDocument]
+window_document_get ->[object HTMLDocument]
+window_navigator_get ->[object Navigator]
+Navigator_vendor_get res->Google Inc.
+window_navigator_get ->[object Navigator]
+Navigator_appName_get ->Netscape  
+window_navigator_get ->[object Navigator]
+Navigator_webdriver_get ->false
+window_navigator_get ->[object Navigator]
+window_document_get ->[object HTMLDocument]
+Document_createElement -> div -> [object HTMLDivElement]
+window_document_get ->[object HTMLDocument]
+Document_createElement -> p -> [object HTMLParagraphElement]
+[object HTMLDivElement]-> Node_appendChild -> appendChild -> [object HTMLParagraphElement]
+[object HTMLDivElement]-> Node_cloneNode -> false -> [object HTMLDivElement]
+[object HTMLDivElement]-> Node_appendChild -> appendChild -> [object HTMLDivElement]
+[object HTMLDivElement]-> Node_insertBefore newNode->[object HTMLDivElement]-> referenceNode ->[object HTMLParagraphElement]
+[object HTMLDivElement]-> Element_outerHTML_get -> <div><div></div><p></p></div>
+window_document_get ->[object HTMLDocument]
+Document_createElement -> div -> [object HTMLDivElement]
+window_document_get ->[object HTMLDocument]
+Document_createElement -> p -> [object HTMLParagraphElement]
+window_document_get ->[object HTMLDocument]
+Document_createElement -> span -> [object HTMLSpanElement]
+[object HTMLDivElement]-> Node_appendChild -> appendChild -> [object HTMLParagraphElement]
+[object HTMLDivElement]-> Node_cloneNode -> false -> [object HTMLDivElement]
+[object HTMLDivElement]-> Node_appendChild -> appendChild -> [object HTMLDivElement]
+[object HTMLDivElement]-> Node_insertBefore newNode->[object HTMLDivElement]-> referenceNode ->[object HTMLParagraphElement]
+Element_className_set -> className -> cll1
+[object HTMLDivElement]-> Element_setAttribute ->_k : class -> _v : sss
+[object HTMLSpanElement]-> Node_insertBefore newNode->[object HTMLDivElement]-> referenceNode ->null
+[object HTMLSpanElement]-> Element_innerHTML_get -> res -> <div class="sss"></div>
+window_document_get ->[object HTMLDocument]
+Document_createElement -> iframe -> [object HTMLIFrameElement]
+window_document_get ->[object HTMLDocument]
+[object HTMLDocument]-> Document_body_get -> [object HTMLBodyElement]
+[object HTMLBodyElement]-> Node_appendChild -> appendChild -> [object HTMLIFrameElement]
+[object HTMLIFrameElement]-> HTMLElement_style_get -> res -> [object CSSStyleDeclaration]
+      [CSSStyleDeclaration2:proxyHelper]   设置属性:   display   value:   none
+HTMLIFrameElement_contentWindow_get ->res -> iframe Window
+iframe window_document_get ->[object HTMLDocument]
+      [iframe1::proxyWindow]   获取属性:   document   value:   [object HTMLDocument]
+Document_createElement -> div -> [object HTMLDivElement]
+[object HTMLDivElement]-> Element_outerHTML_get -> <div></div>
+window_document_get ->[object HTMLDocument]
+Document_createElement -> li -> [object HTMLLIElement]
+window_document_get ->[object HTMLDocument]
+Document_createElement -> p -> [object HTMLParagraphElement]
+window_document_get ->[object HTMLDocument]
+Document_createElement -> h1 -> [object HTMLHeadingElement]
+window_document_get ->[object HTMLDocument]
+Document_createElement -> li -> [object HTMLLIElement]
+window_document_get ->[object HTMLDocument]
+Document_createElement -> a -> HTMLAnchorElement
+window_document_get ->[object HTMLDocument]
+Document_createElement -> h1 -> [object HTMLHeadingElement]
+HTMLAnchorElement_toString -> 可能存在检测 !!!!!
+-> Node_appendChild -> appendChild -> [object HTMLLIElement]
+HTMLAnchorElement_toString -> 可能存在检测 !!!!!
+-> Node_replaceChild -> arg0 -> [object HTMLParagraphElement]  arg1-> [object HTMLLIElement]
+[object HTMLLIElement]-> Node_appendChild -> appendChild -> [object HTMLLIElement]
+[object HTMLLIElement]-> Node_appendChild -> appendChild -> [object HTMLParagraphElement]
+[object HTMLLIElement]-> Node_replaceChild -> arg0 -> [object HTMLParagraphElement]  arg1-> [object HTMLParagraphElement]
+[object HTMLLIElement]-> Node_appendChild -> appendChild -> [object HTMLHeadingElement]
+[object HTMLLIElement]-> Node_appendChild -> appendChild -> [object HTMLParagraphElement]
+[object HTMLLIElement]-> Node_removeChild -> [object HTMLHeadingElement]
+HTMLAnchorElement_toString -> 可能存在检测 !!!!!
+[object HTMLLIElement]-> Node_appendChild -> appendChild -> 
+[object HTMLLIElement]-> Node_replaceChild -> arg0 -> [object HTMLParagraphElement]  arg1-> [object HTMLParagraphElement]
+HTMLAnchorElement_toString -> 可能存在检测 !!!!!
+-> Element_outerHTML_get -> <a></a>
+window_location_get ->
+location_href_get res->about:blank
+使用bs64编码:$D¢ýà1ë¡í|k&:ÌXJîGÂ.#÷ä}&>,(ÍW,g(ÍW,g
+编码后JESi/YngMeuAoe0HfGsmOsxYgUruR8IuI5r35H0mPiwozVcCn5MsZyjNVwKfkyxn
+使用bs64编码:B®u"¨ãsþ?Å'\
+ù"?¼äþý÷ü#£4]HfðTãá­SÇÂö(Ü~Gç®§AâfbÁ¥ä#ý[`:G×ì¸ ¿ÀG¦²ñ8Ì'¡×³«©uóµ?ósÆÖÎnÌýê¾*¹'S&s¯¥)zpÔk¸J96¯Fzìø(l¸CÅS]Só5KM*:Àyÿ90#³9÷ÓG/ú@¼$ÔËß"ÅÒ`ùÊ±¢0(°UÌµ³zOÜPmz·Í¦3³?õ¼|°d$¤/!^x/+¨ßº¡J£ýé\áÚM q¯tÖ ©r=.ÚCXVöõ§N<eÁv6*9)}¬äÝ?<3½]RzJtè±<~$e/rñuÌz9V»?0ªþ6òí%­ÿ8ÆE?´~}«LèÑu¥¸È×rÈEà=äìvÌÐ½Ô|fq~}ºñ
+O¡éiJÖÅ9©~ÿB ô´Ä{{È¹
+¿Ý"^Æ0ôÒXíÅ^®ÂâtûIjÖ ·'3ÜPhd¥jz¦Ñöwq®F\y±³qr··ZyÊô*ò`):4a4%/$¤·ûykÈq¡¯ù±(ÍW,g
+编码后BkIerpyYdRaDASKojeNz/j/FEidcCvkiPxG85BqG/v33/COjNF1IZpEf8J1U4+GtmFOLx8L2kCgI3H6ClEeN566nQYviZmLBpeQj/VsIYDqFDEcXAtfsuAC/wEeEprLxOMwnodezq6l1lvO1P/Mbc8aT1oDObsz96r4quSdTJnOvpQQpiHpwE9RruA1KOTavBkZ67PgobAd/mrhDxVNdFxlT8zVLTSo6wHn/nzkwI7M599OdRy/6QLwk1MvfIgjFgNJg+cqxojAosBZVzLWNs3pP3I1QkW16t82mM48Usz/1C7x8sIWaZI4kpC8hXp54Lyuo37oYoZ9Ko/0BF+lcEOGI2hFNIHGvdNYAqZtyPS7aQ1hW9vWnTjxlwXY2Dio5nyl9gqwP5N0RiT88M5C9XYZSlXpKdOixPH4kZS9y8XXMg3o5VrsVPzCq/hI28oQP7RElrf+MOMacRT+ZE7QQGId+fatM6NF1pbiHlBTI13KUyEXgPeTsdpvM0L3UBXycZnF+fYO6ipCDmPEXGApPoelpmkrWxTmpGH7/QiD0tIDEknt7lsi5Cr/dIl7GMBX0C9JY7cUaXq7CD+J0+0lq1pgAtw0nM9xQaIpkpWqfeqaCk9H2d3F/rkYDXBqQebEBs3FyBbe3WnnK9CryYCmJOjRhNA4lLySkt5j7eWvIiHGEoR+v+bGFnCjNVwKfkyxn
+window_document_get ->[object HTMLDocument]
+Document_createElement -> div -> [object HTMLDivElement]
+window_document_get ->[object HTMLDocument]
+Document_createElement -> p -> [object HTMLParagraphElement]
+[object HTMLDivElement]-> Node_appendChild -> appendChild -> [object HTMLParagraphElement]
+[object HTMLDivElement]-> Node_cloneNode -> false -> [object HTMLDivElement]
+[object HTMLDivElement]-> Node_appendChild -> appendChild -> [object HTMLDivElement]
+[object HTMLDivElement]-> Node_insertBefore newNode->[object HTMLDivElement]-> referenceNode ->[object HTMLParagraphElement]
+[object HTMLDivElement]-> Element_outerHTML_get -> <div><div></div><p></p></div>
+window_screen_get ->[object Screen]
+Screen_height_get 1024  
+使用bs64编码:Ò;ìLyÎ
+zV×>È¬9B®¯2ê¢)Ù~2C>íxÊïúÂÖ©ÙçîyÆºÐ?S?<(ÍW,g(ÍW,g
+编码后0hQ77EyNB3nOCo56VteVPhjIrII5Qq6vMuqigYMp2ZB+MkM+7XjK7/rC1qnZ5+4Feca60D9TPzwozVcCn5MsZyjNVwKfkyxn
+JSON.stringify5    arg0:[object Object]   arg1: undefined->res->{"sd":{"od":"C","slideValue":[[3,0,0,1710076829523,0],[1,196,170,2413,0],[1,-67,-40,40,0],[1,-24,-14,36,0],[1,-1,1,134,0],[1,-1,2,78,0],[1,0,0,49,0],[1,2,-2,39,0],[1,6,2,38,0],[1,0,106,176,0],[1,0,49,40,0],[1,0,37,44,0],[1,-1,-3,47,0],[1,-3,-3,31,0],[1,-1,-2,46,0],[1,-1,-2,34,0],[1,-3,-7,40,0],[1,-4,-7,39,0],[1,-4,-5,33,0],[2,0,0,146,0],[3,0,0,38,0],[1,0,-1,114,0],[1,25,-20,32,0],[1,28,-32,33,0],[1,6,-24,38,0],[1,4,-9,42,0],[1,1,-11,36,0],[1,1,-10,39,0],[1,0,-9,32,0],[1,0,-14,38,0],[1,0,-7,32,0],[1,-1,-8,39,0],[1,-1,-7,32,0],[1,-3,-7,61,0],[1,-1,-2,38,0],[1,-1,-2,32,0],[1,-3,-4,37,0],[1,0,-3,35,0],[2,0,0,42,0],[1,0,0,28,0],[3,0,0,41,0],[1,-1,0,506,0],[1,-3,4,38,0],[1,-2,6,32,0],[1,-2,8,38,0],[1,-3,5,32,0],[1,-4,5,39,0],[1,-3,5,31,0],[2,-9,12,197,0],[1,0,0,48,0],[3,0,0,3,0],[1,0,2,101,0],[1,0,7,41,0],[1,-3,7,32,0],[1,-2,9,32,0],[1,0,6,36,0],[1,-1,7,35,0],[1,-1,5,38,0],[1,-2,5,39,0],[1,0,7,40,0],[1,0,5,32,0],[1,0,5,46,0],[1,0,3,162,0],[2,0,0,213,0],[3,0,0,50,0],[1,0,1,156,0],[1,0,7,36,0],[1,3,7,34,0],[1,3,7,37,0],[1,2,3,33,0],[1,3,3,33,0],[1,5,7,37,0],[1,2,7,41,0],[1,4,4,32,0],[1,2,14,40,0],[1,0,4,293,0],[1,-14,-17,31,0],[1,-9,-13,38,0],[1,3,-5,33,0],[1,7,-1,38,0],[1,5,3,40,0],[1,1,4,46,0],[1,1,3,48,0],[1,4,4,31,0],[1,3,1,33,0],[1,1,1,34,0],[1,0,2,415,0],[1,6,7,41,0],[1,8,7,39,0]],"ft":"qf_7Pf__H"}}
+使用bs64编码:§|ãÐh?nezÈO£Ù!óõ¦Õ**×gÃZÇB÷óz
+ÛßÑó<×òTu,~it·!	Xð¤Æmi¬L_PhW­¯~9¥æ¦ä#öÑ©ÆÜÓÀõç{s²;lì!«¤Ãë<»~|ßò¨\÷k:a*²Ë Ö[ö¦ü¾=©}ºá©ÐæÏÀµÌòJ_§î	7ö%pª°³Ë/F·×õþõÒ:%U×Z=±è,Dxãív©^Ù[Ík!<fvªûu¶dßðdáÉ²'Ü·jNÂüNãÛ3r¥¸eÁ[~R8Ú­¢F	ûH¸ìÄ%Ó}Ô
+)È>ÍfÌýU7A/£|t(ïTÖWÓö5hw	2ÜÙN-Zê$NÛ+ò©Wök|¸{·aèÿ9JøJ_§î	7öÅ2DÃOÇÛ9ûXfãù^Uê SEÿ8Û»Ø­z´Ñî}÷R~tWeôã½êÊ÷xî$)ÄèÑYþâ¹ økvÎS³îyõb(\z35u9OñX)Äé0HzãÞÉ¸îÂ¶n^T©Ì:hk9MD¨á<|!ÖÅ@k kZxxvõ'Â*÷£
+ Ð^Ù[Ík!<fh l>½dáÉ²'Ü·ÌÉ]*ÌýãÛ3r¥¸eÁ~9ó¤­¢F	ûH¸ì¶n^T©@ÎªÌ-é®uIÐm'ã¨g¬ê$NÛ+òù;0¡_,cûª)ö¨·wWA=é­^ýô?Óc0(^Ù[Ík!<fE.8EyðØdáÉ²'Ü·C¤äîß¢,½¬wù`÷8Û»Ø.¨oÕ²5çxxvõ'Â*¤4uåêî^>Ãm¦4S`.á]m8£·ÅË.WDçiÚÇ¶0Ä~±k¥:Á½.Ídé=³2ú^äl4Z¬XK¡í*Êä5`dÕ¶îocþ6L"Dè	<-ÖLçä dáÉ²'Ü·=c}ü"ºê\¥8Ï8Û»Ø"ìÈwMi^Ù[Ík!<fÝx©=¹è$ÈºTj2¿ßJ_§î	7öøStÎPxÖWÓö5hw	]/Zú×ye08ÿÎÅÅ0¶n^T©gE5cÎç\ß»-oÖy^åS\Ë!³¤Ñ'¿Bm¨hîv+ÚqÉ+¾ S¾Z=±è,Dn¤nLÜ~_ÁüTj¸q\#ÂF`¯UëU,yå4Çj¾ti¥l2:Y~Þ¶<¨x£E×ÛZvü¨ Ó8õËó.ùÀ§é¸[ó	.ï¶Ýq<z ê2Å,¾Q¬62eDûõCðÒThò|ËÜHÁEèÚ1Ø°(Ð»0ØaÀø­zoÌõ#EïÑV\6w×Åù}òúR~tWezÍ;F9âü¨ Ó8õ(æì+}¶XÚ¾Ã©çÊó/ýp¦jÑ¼ð;ÉÌ.&²rÔ¥p`Î9Ð<×òTu,áISôUÜSÈÛZìG¾¨KMÔsX¥úÏÈL"Dè	<-ÊcÚÂ´qÒQÊ9Þ¸7@:1w«º¿]îO$¨
+编码后n6eNfOPQCGgdP25lFXrIT6OL2SHz9abVKirXZ4zDWhzHDUIHhIMZ9/MYegrb39HzPNfyVJsXdSx+aYwddLchjwiWhRgJWPCkxm1prExfUJQXaFetr345peam5CP20R+pDsbc08D153uLc7I7bOwhq6TD650LlTyNu34CfN/yqFz3ax06FWEqssugn9Zbh/aDppP8vj0TA6l9uuGpBtDmz8C1zJyB8o8Qgkpfp+4JN/YlcKqws8svFEa31x31mP71GtI6JVUQ1xlaiD0SsegsRHjj7XapEA8fXtlbzWshPGZ2qvt1tmTf8GThyQGyJ9y3ak4YwvyRTpPj2zNypbhlwVuKflKVONobraJGCftIuOyBBcQl0x591Aopg8g+zWbM/VU3QS+jfHQUKBiPnIrvVNZX0/Y1aHcJMhrc2U4tklrqJBFOi9sr8qlX9mt8uHu3YegX/xg5SviCSl+n7gk39hjFMkTDl0/H24U5+1hm4/kSXlXqoFNF/5042wS7nhDYrXq00e6UffcTUn4adFdlDYz0473qB8r3eO6RJCnE6NFZ/uK5oJP4a4N2zlOz7nn1YihclXozNXU5T/FYKcTpiDBIf4gUG3qR497Jl7juwoSdDLZ/bl5Uqcw6aGs5TUSDqOGMfzx8IdbFQGucAAJrWnh4n3b1J8Iq94CjkgoAiNBe2VvNayE8ZmigbBg+G72UZOHJAbIn3LcbzMldKsyQ/ePbM3KluGXBjn4585CklQStokYJ+0i47J0Mtn9uXlSpQBmHzhSAhp2qzC3prht1SdBtJ+MDqGes6iQRTovbK/L5OzChX4AsGGP7qin2qLebd1dBPekRrV79E/Q/02MwKF7ZW81rITxmRS44RXnw2Atk4ckBsifct0Ok5O7foiwOvax3+WD3Go+dONsEu54Q2C6ogW/VsjXneHifdvUnwiqVpIY0deXqlO5eCz7DbaY0U2AuHOFdbTijt8V/yy5XROeHadrHGbYwxH4ZsWuVpTrBvRQumM1k6T2LszL6nl7kbDRarFhLoe0qyuQ1YBFk1bbub2OL/jaATBwiROgJPC3WTOfkB4IYAGThyQGyJ9y3PWN9/A4iDh26F+pcpTjPmp042wS7nhDYIuzIlZZ3TWle2VvNayE8Zt14HKk9uegkyLqAVGoyv9+CSl+n7gk39vhTEHTOUJd41lfT9jVodwldL1r6Edd5ZTA4/xHOxcUwnQy2f25eVKlnRTVjGc7njVzfuy1v1nle5VNcyyEHs6TRDicbEr9Cbaho7nYr2nGKkInJK74AU75aiD0SsegsRG6kbkwc3H5fwfxUag2QGhy4mXF/XCPCRpmVYK9V61UsGHmI5TTHahC+dJlppYZsMhI6lhNZft62lzyokwWAeKNF19taEY5/dvwFqA8g0zj1yw6F8y75wIqn6bhb8wku77bdgY1xPHoDG6DqMpvFCCy+Uaw2MhAaZYNE+/VD8NJUaPJ8y5fcSBPBmZFF6A7aMdiwCxQLKNC7MIPYYcD4rXpvFMya9YEjRe/RVhRcNneHBNfF+X3ykvoTUn4adFdlDXrNO0Y54gcF/AWoDyDTOPUoFObshyt9tljavsMLHKmZ58qG85cvnv1wpmrRC5O8EvAFhZU7i3/JlMwuJrJy1KVwYM4VOQ8Y0DzX8lSbF3Us4R1JU/RVG9xTG8gW21rsRx6+qEufTYPUc1il+s+RgshMHCJE6Ak8LYfKCJhj2sK0cdJRyjneC4e4N0A6MXerur9dAu5PfySo
+collect:: BkIerpyYdRaDASKojeNz%2Fj%2FFEidcCvkiPxG85BqG%2Fv33%2FCOjNF1IZpEf8J1U4%2BGtmFOLx8L2kCgI3H6ClEeN566nQYviZmLBpeQj%2FVsIYDqFDEcXAtfsuAC%2FwEeEprLxOMwnodezq6l1lvO1P%2FMbc8aT1oDObsz96r4quSdTJnOvpQQpiHpwE9RruA1KOTavBkZ67PgobAd%2FmrhDxVNdFxlT8zVLTSo6wHn%2FnzkwI7M599OdRy%2F6QLwk1MvfIgjFgNJg%2BcqxojAosBZVzLWNs3pP3I1QkW16t82mM48Usz%2F1C7x8sIWaZI4kpC8hXp54Lyuo37oYoZ9Ko%2F0BF%2BlcEOGI2hFNIHGvdNYAqZtyPS7aQ1hW9vWnTjxlwXY2Dio5nyl9gqwP5N0RiT88M5C9XYZSlXpKdOixPH4kZS9y8XXMg3o5VrsVPzCq%2FhI28oQP7RElrf%2BMOMacRT%2BZE7QQGId%2BfatM6NF1pbiHlBTI13KUyEXgPeTsdpvM0L3UBXycZnF%2BfYO6ipCDmPEXGApPoelpmkrWxTmpGH7%2FQiD0tIDEknt7lsi5Cr%2FdIl7GMBX0C9JY7cUaXq7CD%2BJ0%2B0lq1pgAtw0nM9xQaIpkpWqfeqaCk9H2d3F%2FrkYDXBqQebEBs3FyBbe3WnnK9CryYCmJOjRhNA4lLySkt5j7eWvIiHGEoR%2Bv%2BbGFnCjNVwKfkyxnJESi%2FYngMeuAoe0HfGsmOsxYgUruR8IuI5r35H0mPiwozVcCn5MsZyjNVwKfkyxn0hQ77EyNB3nOCo56VteVPhjIrII5Qq6vMuqigYMp2ZB%2BMkM%2B7XjK7%2FrC1qnZ5%2B4Feca60D9TPzwozVcCn5MsZyjNVwKfkyxnn6eNfOPQCGgdP25lFXrIT6OL2SHz9abVKirXZ4zDWhzHDUIHhIMZ9%2FMYegrb39HzPNfyVJsXdSx%2BaYwddLchjwiWhRgJWPCkxm1prExfUJQXaFetr345peam5CP20R%2BpDsbc08D153uLc7I7bOwhq6TD650LlTyNu34CfN%2FyqFz3ax06FWEqssugn9Zbh%2FaDppP8vj0TA6l9uuGpBtDmz8C1zJyB8o8Qgkpfp%2B4JN%2FYlcKqws8svFEa31x31mP71GtI6JVUQ1xlaiD0SsegsRHjj7XapEA8fXtlbzWshPGZ2qvt1tmTf8GThyQGyJ9y3ak4YwvyRTpPj2zNypbhlwVuKflKVONobraJGCftIuOyBBcQl0x591Aopg8g%2BzWbM%2FVU3QS%2BjfHQUKBiPnIrvVNZX0%2FY1aHcJMhrc2U4tklrqJBFOi9sr8qlX9mt8uHu3YegX%2Fxg5SviCSl%2Bn7gk39hjFMkTDl0%2FH24U5%2B1hm4%2FkSXlXqoFNF%2F5042wS7nhDYrXq00e6UffcTUn4adFdlDYz0473qB8r3eO6RJCnE6NFZ%2FuK5oJP4a4N2zlOz7nn1YihclXozNXU5T%2FFYKcTpiDBIf4gUG3qR497Jl7juwoSdDLZ%2Fbl5Uqcw6aGs5TUSDqOGMfzx8IdbFQGucAAJrWnh4n3b1J8Iq94CjkgoAiNBe2VvNayE8ZmigbBg%2BG72UZOHJAbIn3LcbzMldKsyQ%2FePbM3KluGXBjn4585CklQStokYJ%2B0i47J0Mtn9uXlSpQBmHzhSAhp2qzC3prht1SdBtJ%2BMDqGes6iQRTovbK%2FL5OzChX4AsGGP7qin2qLebd1dBPekRrV79E%2FQ%2F02MwKF7ZW81rITxmRS44RXnw2Atk4ckBsifct0Ok5O7foiwOvax3%2BWD3Go%2BdONsEu54Q2C6ogW%2FVsjXneHifdvUnwiqVpIY0deXqlO5eCz7DbaY0U2AuHOFdbTijt8V%2Fyy5XROeHadrHGbYwxH4ZsWuVpTrBvRQumM1k6T2LszL6nl7kbDRarFhLoe0qyuQ1YBFk1bbub2OL%2FjaATBwiROgJPC3WTOfkB4IYAGThyQGyJ9y3PWN9%2FA4iDh26F%2BpcpTjPmp042wS7nhDYIuzIlZZ3TWle2VvNayE8Zt14HKk9uegkyLqAVGoyv9%2BCSl%2Bn7gk39vhTEHTOUJd41lfT9jVodwldL1r6Edd5ZTA4%2FxHOxcUwnQy2f25eVKlnRTVjGc7njVzfuy1v1nle5VNcyyEHs6TRDicbEr9Cbaho7nYr2nGKkInJK74AU75aiD0SsegsRG6kbkwc3H5fwfxUag2QGhy4mXF%2FXCPCRpmVYK9V61UsGHmI5TTHahC%2BdJlppYZsMhI6lhNZft62lzyokwWAeKNF19taEY5%2FdvwFqA8g0zj1yw6F8y75wIqn6bhb8wku77bdgY1xPHoDG6DqMpvFCCy%2BUaw2MhAaZYNE%2B%2FVD8NJUaPJ8y5fcSBPBmZFF6A7aMdiwCxQLKNC7MIPYYcD4rXpvFMya9YEjRe%2FRVhRcNneHBNfF%2BX3ykvoTUn4adFdlDXrNO0Y54gcF%2FAWoDyDTOPUoFObshyt9tljavsMLHKmZ58qG85cvnv1wpmrRC5O8EvAFhZU7i3%2FJlMwuJrJy1KVwYM4VOQ8Y0DzX8lSbF3Us4R1JU%2FRVG9xTG8gW21rsRx6%2BqEufTYPUc1il%2Bs%2BRgshMHCJE6Ak8LYfKCJhj2sK0cdJRyjneC4e4N0A6MXerur9dAu5PfySo
+eks::  V6fM4r65NuQWU0xonFWaCVCg7OiMhCFnx+av+3HpUbSSEgvOxV/v7C2Dn7/2TFVA1R9PG7/T579uA2zD9Y95x5APixH1RaOETawn95SzaMLjZ0L8KtbkI7xms74Yv5Usq1qspDTUJMwTWsACb0wtkDMCHoMLZaBOOhMrkGhWoNb19OtI9QcnhYzex2gCl1Dl2T2zx/VSoO+8V+G1C46Es2rjAGIAgtHEiFjEKWl5R3A=
+当前正在执行的事件 load -> [object Object] -> [object Event] -> 
+window_document_get ->[object HTMLDocument]
+Document_cookie_get cookie -> TDC_itoken=611086462%3A1728231665
+删除window 新增属性完成

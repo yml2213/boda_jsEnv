@@ -643,7 +643,8 @@ window.TDC.setData({
     "ft": "qf_7Pf__H"
 })
 
-// debugger
+debugger
 bodaEnv.toolsFunc.console_copy('collect:: ',window.TDC.getData(!0))
+
 
 bodaEnv.toolsFunc.console_copy('eks::  ',window.TDC.getInfo().info )

@@ -34,7 +34,7 @@ vm.setGlobal('bodaBabelgenerator',getCodeFunc.generator)
 
 
 let staticCode = getCodeFunc.getStaticCode()
-let getRunAllCode = getCodeFunc.getRunAllCode()
+let getRunAllCode = getCodeFunc.getRunAllCode('run_tdc')
 let jsCode = staticCode + getRunAllCode
 const script = new VMScript(jsCode, "./debugJS.js")
 let result = vm.run(script);
